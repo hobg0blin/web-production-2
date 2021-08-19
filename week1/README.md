@@ -68,7 +68,7 @@ Now go to [GitHub](https://github.com/) and create an account.
 
 Once you’re done, in Atom hit “Add Folder”, navigate to the folder we created, select it, and hit “Open”
 
-![Atom with the Finder window open and the “web-production-2” folder selected](/img/atom_open_finder.png)
+![Atom with the Finder window open and the “web-production-2” folder selected](img/atom_open_finder.png)
 
 In the GitHub pane, follow the instructions to get a token and log in to GitHub from Atom.
 

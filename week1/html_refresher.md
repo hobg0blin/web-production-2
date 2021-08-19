@@ -110,6 +110,11 @@ Videos: You can embed a video with the `<video>` tag. Adding the attribute `cont
 `<video src='./video/test_video.mp4' controls> Video not supported. </video>`
 
 
+## Reference
+
+[HTML5 Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+
+
 ## Exercise
 
 Add some of the above elements to the simple HTML page you've already made. Try a list of your pet peeves, or a video you find online.
