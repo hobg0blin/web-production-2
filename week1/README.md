@@ -1,77 +1,37 @@
 # Class 1
 
+- [Server-side scripting slides](https://docs.google.com/presentation/d/1E-A6HWqaz2aU4Hmku_A9TNs-O4KMMmdKOydKjehWrkg/edit?usp=sharing)
+- [Getting Set Up With Atom and GitHub](setup.md)
+- [HTML Refresher Notes](html_refresher.md)
+- [CSS Refresher Notes](css_refresher.md)
+- [JS Refresher Notes](js_refresher.md)
+
+
+## Assigned
+### Read:
+- [What Is A Web Server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+- [Simple Net Art Diagram](https://anthology.rhizome.org/simple-net-art-diagram)
+- [How Artists Used The Discord App to Build Community During Covid-19](https://hyperallergic.com/632565/how-artists-used-the-discord-app-to-build-community-during-covid-19/)
+### Do:
+[Exercise//Homework](assignment.md)
+
 ## Useful Resources:
 
-[Git/GitHub and Atom Documentation](https://flight-manual.atom.io/using-atom/sections/github-package/#initialize-repositories)
+If you need a longer-form refresher:  
 
-## Setting Up Git And Your Home Directory
+- [HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html)
 
-### Making The Home Directory
-
-Welcome! Let’s get started by setting up the directory where your work is going to live.
-For a quick refresher, the terminal is basically a direct interface to your computer - text-based, rather than the graphical interfaces (like Finder on Mac or File Browser on Windows) that most people use. The terminal is a beautiful thing and learning to use it well will make you an extremely powerful programmer.
-
-Some basic commands to get used to:
-
-`cd`: change directory - enter a folder
-`mkdir {directory name}`: make a new folder
-`touch {file name}`: make a new file
-`ls`: list all files in the current folder
-
-Open the terminal and type `cd Documents`. If you have a preferred folder for classwork, go ahead and `cd` into it for the next step.
-
-Now let’s make a directory for this class: `mkdir web-production-2``
-
-Cd into that folder: `cd web-production-2`
-
-Great! You’ve created the folder where all your work for this course will live.
-
-Let’s go back to the terminal and get set up for today’s exercises:
-
-`mkdir week-1-exercises`
-`cd week-1-exercises`
-`touch script.js`
-`touch style.css`
-`touch index.html`
-`mkdir img`
-
-Now type `open .` and you should see a Finder window with all these files in it.
-
-Check and see if you already have git installed - `git --version`. If you’re on a Mac, it should prompt you to install it if it’s not already there.
-
-Once it’s installed, enter `git init` to create your github repository.
-
-To “save” all our files in git: `git add .`
-To “commit” all of them: `git commit -m “my first commit!”`
-Finally, let’s rename our primary branch: `git branch -M main` (GitHub, by default, calls its primary branch `master`, which has a [loaded history](https://twitter.com/mislav/status/1270388510684598272))
+- [CSS Essential Training](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-1/569190-2.html)
+- [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)
 
 
-We’ll mostly be using Git directly from Atom in this course, but it’s useful to familiarize yourself with its CLI (command line interface), especially when you’re working on complicated projects.
+Quicker references:  
+- [HTML Cheat Sheet](https://codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet)
+- [CSS Cheat Sheet](https://www.codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet)
+- [JavaScript Cheat Sheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+- [Interneting is hard](https://www.internetingishard.com/html-and-css/)
 
-(If you run into problems with git, more documentation can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), and, as always, Googling is your friend)
+Git:  
+- [Git/GitHub and Atom Documentation](https://flight-manual.atom.io/using-atom/sections/github-package/#initialize-repositories)
 
-## Getting Set Up With Atom and GitHub
-
-(If you’re an experienced enough programmer that you’re comfortable with git/GitHub and have a preferred text editor, feel free to skip this section)
-
-The first step to becoming an immensely powerful programmer is having a good text editor. For this course, we’ll be using [Atom](https://atom.io/), which is free and beginner-friendly. If you’re more experienced or adventurous, some other popular text editors:
-
-[Sublime](https://www.sublimetext.com/): free but will occasionally show a popup asking you to pay for a license. More powerful than Atom.
-
-[VSCode](https://code.visualstudio.com/): Microsoft’s text editor. I’m not super familiar with it, but plenty of programmers swear by it.
-
-[vim](https://www.vim.org/) and [Emacs](https://www.gnu.org/software/emacs/): Enter at your own peril. These are super-advanced, super-customizable text editors with a high learning curve, for the incurable/insufferable programmer. I use vim but I try not to talk about it.
-
-Go to [Atom’s website](https://atom.io/) and download it.
-
-Now go to [GitHub](https://github.com/) and create an account.
-
-Once you’re done, in Atom hit “Add Folder”, navigate to the folder we created, select it, and hit “Open”
-
-![Atom with the Finder window open and the “web-production-2” folder selected](img/atom_open_finder.png)
-
-In the GitHub pane, follow the instructions to get a token and log in to GitHub from Atom.
-
-Once you’ve done that, hit “Publish to GitHub” and then “Publish”.
-
-Check your GitHub Repositories, and you should have a brand new “web-production-2” repository! 
+ 

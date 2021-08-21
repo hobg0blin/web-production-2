@@ -46,7 +46,7 @@ Inside the body tags, let's add a `<div>`, short for "division", a simple way of
 Let's spruce up our page again with an `<img>`. Take an image from your computer or the web and put it in the `img` folder we created, then add an `<img>` tag above the `<div>`, with an `alt` attribute describing it, like so:
 
 ```
- <img src='./img/my_cool_image.jpeg' alt='A picture of a dog wearing sunglasses.'
+ <img src='./img/my_cool_image.jpeg' alt='A picture of a dog wearing sunglasses.>'
 ```
 ### A Note On Filepaths
 
@@ -82,7 +82,6 @@ Lists: `<ul>`, unordered, will just show a list with bullet points. `<ol>` will 
       <li> Coffee </li>
       <li> Moxie </li>
     </ol>
-  </h2>
 </div>
 <div>
   <h2> A definition list </h2>
