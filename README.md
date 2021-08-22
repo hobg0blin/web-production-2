@@ -100,6 +100,7 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - Setting up your home directory
 - Server-side scripting
 - HTML + CSS + JS review
+- [Reading & Assignment](week1/assignment.md)
 
 ### Class 2: Drawing With Code
 
