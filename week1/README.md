@@ -6,11 +6,18 @@
 - [CSS Refresher Notes](css_refresher.md)
 - [JS Refresher Notes](js_refresher.md)
 
+### Some cool stuff:
+
+[Your World Of Text](yourworldoftext.com)  
+[Place](https://en.wikipedia.org/wiki/Place_(Reddit))
+
 
 ## Assigned
 ### Read:
 - [What Is A Web Server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+- [Introduction to the server side](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
 - [Learning PHP, MySQL & Javascript](https://drive.google.com/file/d/1nYocTRPs6XBYYHIcaHLInyLswIWlu8Ly/view?usp=sharing): Chapter 13 (Exploring JavaScript), Chapter 18 (Introduction to CSS)
+
 ### Do:
 #### Assignment 1: Course Homepage
   - Using the template we created, make a homepage for this class.
@@ -21,7 +28,7 @@
   - Upload the page to GitHub (don’t forget to commit and push!) and upload the link [here](https://forms.gle/U4yRr9VrAHXb1Mgu5)
 	- Bonus points: Interact with at least one element on the page using JavaScript - change the CSS styling, its internal text, move it around the page
 
-## Useful Resources:
+## Other Useful Resources:
 
 If you need a longer-form refresher:  
 

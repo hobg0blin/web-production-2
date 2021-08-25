@@ -8,6 +8,7 @@ JavaScript is a client-side (and now, also, server-side!) language that can add 
 
 The `<script></script>` tag is used to embed JavaScript in an HTML file, and can be put in the head or body tags - usually it’s put in the `<head>` tag to execute when the page loads.
 You can include a local script - `<script src=’myscript.js’` or an external script, like jQuery `<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>`
+
 #### Variables:
 
 
@@ -18,11 +19,20 @@ Naming conventions: JavaScript traditionally uses camelCase variable and functio
 ```
 let myName = 'Brent'
 console.log(myName)
+Brent
 myName = 'NotBrent'
 console.log(myName)
+NotBrent
 ```
 
 `const myName = 'Brent'`: the `const` or “constant” keyword declares a variable that **cannot** be reassigned.
+
+```
+const myName = ‘Brent’
+myname = ‘Dave’
+Uncaught TypeError: invalid assignment to const 'Brent'
+```
+
 
 #### Datatypes
 
@@ -121,7 +131,7 @@ We can resolve this problem by using the backslash escape character:
 
 ## Scoping
 
-Global variables are declared outside of functions, but can be accessed within them. If we redeclare a global variable inside a function, it’ll change withing that function but not outside of it.
+Global variables are declared outside of functions, but can be accessed within them. If we redeclare a global variable inside a function, it’ll change within that function but not outside of it.
 
 ```
   var myName = “Brent”

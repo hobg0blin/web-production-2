@@ -30,7 +30,11 @@ Now let's add some content, after the `<head>`, using `<body>` tags. We can use 
 
 ```
 <body>
+<main>
+<section>
 <h1> My Cool Webpage </h1>
+</section>
+</main>
 </body>
 ```
 

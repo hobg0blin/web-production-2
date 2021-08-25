@@ -3,7 +3,7 @@
 CSS stands for “Cascading Style Sheets”. It applies design to your HTML elements, in the form:
 
 `selector {
-property: value;
+  property: value;
 }`
 
 You can either import it from a `.css` file using an HTML tag, like so:
