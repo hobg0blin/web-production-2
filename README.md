@@ -8,6 +8,51 @@ Office hours TBD (for now, email me)
 
 Web Production II builds upon the tools employed in Web Production I to begin developing dynamic websites and other net.art works. Advanced coding methods will be introduced in HTML5, JavaScript, JQuery, AJAX, node.js, and JSON. Students will develop multiple interactive web projects using a range of methods and tools.
 
+## Syllabus
+
+This schedule is subject to change. Please check your e-mail and this course page regularly for the most up-to-date information.
+
+
+### [Class 1: Introductions](week1/)
+- Course overview and syllabus
+- Setting up your home directory
+- Server-side scripting
+- HTML + CSS + JS review
+- [Reading & Assignment](week1/assignment.md)
+
+### Class 2: Drawing With Code
+
+### Class 3: Advanced JS: Object-Oriented Programming
+
+### Class 4: Random Access Memory: Media Controllers
+
+### Class 5: Interactive shorthand: introduction to jQuery
+- **Midterm Assigned**
+
+### Class 6: Introduction to Node
+
+### Class 7: Midterm Crit, Debuggingh
+- **Midterm Due**
+
+### Class 8: Making Your First Server
+
+### Class 9: Advanced Node: NPM and Yarn
+
+### Class 10: Databases! Intro to MongoDB
+
+### Class 11: Putting It All Together
+
+### Class 12: The Power Of AJAX
+
+### Class 13: Fun With Packages
+- **Final assigned**
+
+### Class 14: Work Session
+
+### Class 15: Final presentations!
+- **Final due**
+
+
 ## Learning Objectives
 
  - Students should be able to develop and implement computer-based approaches to media-making practices.
@@ -90,48 +135,5 @@ Copying and pasting, especially from StackOverflow, is an integral part of any p
 
 I would always prefer you send me broken code than somebody else's code. Bugs are a natural part of the programming process, and you will not be penalized for code that doesn't work as long as you made a good faith effort to resolve the problem. If you're stuck on a particularly tricky bug, you can talk to me during office hours or reach out to me over e-mail.
 
-## Syllabus
-
-This schedule is subject to change. Please check your e-mail and this course page regularly for the most up-to-date information.
-
-
-### [Class 1: Introductions](week1/)
-- Course overview and syllabus
-- Setting up your home directory
-- Server-side scripting
-- HTML + CSS + JS review
-- [Reading & Assignment](week1/assignment.md)
-
-### Class 2: Drawing With Code
-
-### Class 3: Advanced JS: Object-Oriented Programming
-
-### Class 4: Random Access Memory: Media Controllers
-
-### Class 5: Interactive shorthand: introduction to jQuery
-- **Midterm Assigned**
-
-### Class 6: Introduction to Node
-
-### Class 7: Midterm Crit, Debuggingh
-- **Midterm Due**
-
-### Class 8: Making Your First Server
-
-### Class 9: Advanced Node: NPM and Yarn
-
-### Class 10: Databases! Intro to MongoDB
-
-### Class 11: Putting It All Together
-
-### Class 12: The Power Of AJAX
-
-### Class 13: Fun With Packages
-- **Final assigned**
-
-### Class 14: Work Session
-
-### Class 15: Final presentations!
-- **Final due**
 
 

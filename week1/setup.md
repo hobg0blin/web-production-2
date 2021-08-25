@@ -79,3 +79,17 @@ Our GitHub page should currently be disabled, so in the dropdown menu select “
 It’ll take a little while, but if you reload the page in a minute or two you should get a link to your site!
 
 ![A successful publish](img/published.png)
+
+
+## Working On Your Repository From Home
+
+If you’re working from home and started your repository in the lab, you can “clone” it in Atom from the GitHub tab (make sure you don’t have any project folders open):
+
+![Cloning a repository in Atom](img/github-without-projects.png)
+
+In the page for your GitHub repository, copy the link under the “Code” button:
+
+![The repo link in GitHub](img/repo_link.png)
+
+
+If you’re signed in to GitHub, you should be able to follow all the steps above to make changes to your repository and push your code.
