@@ -7,12 +7,12 @@ For a quick refresher, the terminal is basically a direct interface to your comp
 
 Some basic commands to get used to:
 
-`cd`: change directory - enter a folder
-`mkdir {directory name}`: make a new folder
-`touch {file name}`: make a new file
-`ls`: list all files in the current folder
+`cd`: change directory - enter a folder  
+`mkdir {directory name}`: make a new folder  
+`touch {file name}`: make a new file  
+`ls`: list all files in the current folder  
 
-Open the terminal and type `cd Documents`. If you have a preferred folder for classwork, go ahead and `cd` into it for the next step.
+Open the terminal (Hit Command + Space and type in `terminal`, then hit enter) and type `cd Documents`. If you have a preferred folder for classwork, go ahead and `cd` into it for the next step.
 
 Now let’s make a directory for this class: `mkdir web-production-2``
 
@@ -21,15 +21,18 @@ Cd into that folder: `cd web-production-2`
 Great! You’ve created the folder where all your work for this course will live.
 Now let’s create the basic pages and folders we’ll need this week:
 
-`touch index.html`
-`touch script.js`
-`touch style.css`
-`touch index.html`
-`mkdir img`
+`touch index.html`  
+`touch script.js`  
+`touch style.css`  
+`mkdir img`  
 
 Now type `open .` and you should see a Finder window with all these files in it.
 
-Check and see if you already have git installed - `git --version`. If you’re on a Mac, it should prompt you to install it if it’s not already there.
+Check and see if you already have git installed:
+
+`git --version`.
+
+If you’re on a Mac, it should prompt you to install it if it’s not already there.
 
 Once it’s installed, enter `git init` to create your github repository.
 

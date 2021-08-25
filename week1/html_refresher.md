@@ -12,7 +12,8 @@ Now, add the `<html>` tags:
 
 ```
 <html>
-<!-- welcome to my super cool webpage --!>
+<!-- welcome to my super cool webpage -->
+<!-- this is a comment in html5 -->
 </html>
 ```
 
@@ -20,7 +21,7 @@ So the browser knows we're working with HTML. Great! But this is still an empty 
 
 ```
 <head>
-<!-- Metadata goes here --!>
+<!-- Metadata goes here -->
 <title> My Cool Webpage </title>
 </head>
 ```

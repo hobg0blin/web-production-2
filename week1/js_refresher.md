@@ -44,7 +44,10 @@ We can also use composite datatypes:
 
 We can then reference them by using array indexing (**Remember**: the first item in the array is always at index 0)
 
-`console.log(fruits[1])`
+```
+console.log(fruits[1])
+‘banana’
+```
 
 **Objects**: a composite datatype that represents a collection of values.
 
@@ -58,6 +61,9 @@ A function performs operations on different elements and datatypes:
 function getFruitInfo(fruit) {
   return “The” + fruit.name + “is” + fruit.color
 }
+
+getFruitInfo(fruit)
+“The apple is red”
 ```
 
 ## Operators
@@ -83,6 +89,7 @@ E.g. - the operator += adds the value on the right side to the variable on the l
 let x=1
 let x*=5
 console.log(x)
+5
 ```
 
 Comparison operators:
@@ -156,3 +163,17 @@ JavaScript can also detect events, like submitting a form or mousing over an ima
 
 [Reference](https://www.w3schools.com/tags/ref_eventattributes.asp)
 ### Commenting
+
+Any text in a comment will be ignored by JavaScript. Comments are a great way to explain to other people what your code is doing and leave notes for yourself.
+
+```
+// Always comment your code!
+// Use // for a single-line comment
+/* Use /* */
+    for a 
+    multi
+    line
+    comment
+*/
+
+```
