@@ -27,20 +27,20 @@ You can also just style an individual element, but this tends to be a bad idea, 
 
 A better idea is to use a selector, which in HTML takes the form of an ID, element type, or a class:
 
-A type selector, as in the example above, is just an element type:
+A **type selector**, as in the example above, is just an element type:
 
 `p {
   color: red;
 }`
 
-An ID selector, denoted by the `#`, is only used for one element on the page - save these for if you have a **specific** element that really needs a unique style.
+An **ID selector**, denoted by the `#`, is only used for one element on the page - save these for if you have a **specific** element that really needs a unique style.
 
 `#header {
   font-size: 240px;
 }`
 
 
-Classes, on the other hand, are used for multiple elements that have the same style. Let’s say we want a bunch of divs to have the same background color:
+**Classes**, on the other hand, are used for multiple elements that have the same style. Let’s say we want a bunch of divs to have the same background color:
 
 `.blue-div {
   background-color: blue;
@@ -49,7 +49,7 @@ Classes, on the other hand, are used for multiple elements that have the same st
 
 There are also more complex selectors we can use:
 
-The descendant selector:
+**The descendant selector**:
 
 This selector allows you to apply styles to elements contained within other elements, e.g. if we wanted every `<p>` within a `<div>` to have red text:
 
@@ -57,7 +57,7 @@ This selector allows you to apply styles to elements contained within other elem
   color: red;
 }`
 
-The child selector:
+**The child selector**:
 
 Similar to the descendant selector, but **only** applies to an element that is a direct child of the parent element. So
 
@@ -73,7 +73,7 @@ But not:
 
 `<div><p><span>I’m not red :(</span></p></div>`
 
-Scoping:
+**Scoping***:
 
 We can also narrow the scope of a selector by specifying the element type it should apply to:
 
@@ -114,12 +114,11 @@ Flexbox is similar to grid, but is designed for layout in one dimension: either 
 
 Key flexbox properties:
 
-`display: flex;` : makes an element into a flex container
-`flex-direction: column` OR `row`: direction the container will stack its items.
-`flex-wrap: nowrap` OR `wrap`: default is nowrap, wrap allows items to “wrap”: create a new row
-Horizontal alignmnet: `justify-content: space-between;`, or alternately `space-around` or `center`
-
-Vertical alignment: `align-items: flex-start`(top), `flex-end`(bottom), `center`(default)
+`display: flex;` : makes an element into a flex container  
+`flex-direction: column` OR `row`: direction the container will stack its items.  
+`flex-wrap: nowrap` OR `wrap`: default is nowrap, wrap allows items to “wrap”: create a new row  
+Horizontal alignment: `justify-content: space-between;`, or alternately `space-around` or `center`  
+Vertical alignment: `align-items: flex-start`(top), `flex-end`(bottom), `center`(default)  
 
 
 **Reference***:(A Complete Guide To Flexbox)[https://css-tricks.com/snippets/css/a-guide-to-flexbox/]

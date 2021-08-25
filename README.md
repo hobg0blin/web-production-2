@@ -31,7 +31,7 @@ This schedule is subject to change. Please check your e-mail and this course pag
 
 ### Class 6: Introduction to Node
 
-### Class 7: Midterm Crit, Debuggingh
+### Class 7: Midterm Crit, Debugging
 - **Midterm Due**
 
 ### Class 8: Making Your First Server
@@ -131,7 +131,7 @@ East - 772 – 4931.
 
 ## A Note on Coding
 
-Copying and pasting, especially from StackOverflow, is an integral part of any programmer's life. You are welcome to use code you find in the web as part of your own work, though please make sure to thank the source in a code comment. That said, the code should be made your own, as part of a project you write. An assignment that is directly copy and pasted (or has a few minor variable names changed) will result in failing that assignment.  
+Copying and pasting, especially from StackOverflow, is an integral part of any programmer's life. You are welcome to use code you find in the web (and code we write in class) as part of your own work, though please make sure to thank the source in a code comment. That said, the code should be made your own, as part of a project you write. An assignment that is directly copy and pasted will result in failing that assignment.  
 
 I would always prefer you send me broken code than somebody else's code. Bugs are a natural part of the programming process, and you will not be penalized for code that doesn't work as long as you made a good faith effort to resolve the problem. If you're stuck on a particularly tricky bug, you can talk to me during office hours or reach out to me over e-mail.
 
