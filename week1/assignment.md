@@ -7,8 +7,10 @@
   - Using the template from class, make a homepage for yourself in this course. 
   - You can include information about yourself, your art practice, or your goals for the course (or whatever else you'd like it to be) - just make it your own content, instead of the template.
   - Requirements:
-	- Add your own custom CSS styling (it doesn’t have to be complicated)
-  - Interact with at least one element on the page using an external script - change the CSS styling, its internal text, move it around the page
-	- Include at least one image or video
-  - Upload the page to GitHub (don’t forget to commit and push!) and upload the link [here](https://docs.google.com/forms/d/1tXTbImANfXcBY0KVHcC72LyNM-9ipEOtpwGOsX7Nk3U/edit?usp=sharing) by Wednesday, August 1 at 8pm. 
+  	  - Add your own custom CSS styling (it doesn’t have to be complicated)
+      - Interact with at least one element on the page using an external script - change the CSS styling, its internal text, move it around the page
+	  - Include at least one image or video
+  - If you’re having trouble with Github: [Commiting and Pushing to GitHub from Atom](https://www.youtube.com/watch?v=HZV7OKoD1Hc)
+  - Upload the page to GitHub (don’t forget to commit and push!) and upload the link [here](https://docs.google.com/forms/d/e/1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform?usp=sf_link) by Wednesday, September 1 at 8pm. If you’re having issues with GitHub, you can link to a zip file of the folder or email it directly to me.
+
 

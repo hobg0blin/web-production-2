@@ -1,10 +1,11 @@
 # Class 1
 
-- [Server-side scripting slides](https://docs.google.com/presentation/d/1E-A6HWqaz2aU4Hmku_A9TNs-O4KMMmdKOydKjehWrkg/edit?usp=sharing)
+- [Server-side scripting slides](https://docs.google.com/presentation/d/1asYdzVJe3Z27V-kT8pN1TL-_pIB_u10dyQx1zTjVSL8/edit?usp=sharing)
 - [Getting Set Up With Atom and GitHub](setup.md)
 - [HTML Refresher Notes](html_refresher.md)
 - [CSS Refresher Notes](css_refresher.md)
 - [JS Refresher Notes](js_refresher.md)
+- If you’re having trouble with Github: [Committing and pushing to GitHub with Atom](https://www.youtube.com/watch?v=HZV7OKoD1Hc)
 
 ### Some cool stuff:
 
@@ -15,7 +16,8 @@
 
 ### In Class:
 
-[Better version of the live code examples](live-code/)
+[Better version of the live code examples](live-code/)  
+[As a zip file](https://drive.google.com/file/d/1lxZiYAdr9dcrfplQUWkhYHCXy-MSBH8M/view?usp=sharing)
 
 
 ## Assigned
@@ -25,14 +27,15 @@
 - [Learning PHP, MySQL & Javascript](https://drive.google.com/file/d/1nYocTRPs6XBYYHIcaHLInyLswIWlu8Ly/view?usp=sharing): Chapter 13 (Exploring JavaScript), Chapter 18 (Introduction to CSS)
 
 ### Do:
-#### Assignment 1: Course Homepage
+#### Assignment 1: Course Homepage (due Wednesday, September 1 at 8pm)
   - Using the template we created, make a homepage for this class.
   - You can include information about yourself, your art practice, or your goals for the course (or whatever else you'd like it to be) - just make the content your own.
   - Requirements:
 	- Add your own custom CSS styling (it doesn’t have to be complicated)
 	- Include at least one image or video
-  - Upload the page to GitHub (don’t forget to commit and push!) and upload the link [here](https://forms.gle/U4yRr9VrAHXb1Mgu5)
-	- Bonus points: Interact with at least one element on the page using JavaScript - change the CSS styling, its internal text, move it around the page
+	- Interact with at least one element on the page using JavaScript - change the CSS styling, its internal text, move it around the page
+  - If you’re having trouble with Github: [Commiting and Pushing to GitHub from Atom](https://www.youtube.com/watch?v=HZV7OKoD1Hc)
+  - Upload the page to GitHub (don’t forget to commit and push!) and upload the link [here](https://forms.gle/U4yRr9VrAHXb1Mgu5). If you’re having issues with GitHub, you can link to a zip file of the folder or email it directly to me.
 
 ## Other Useful Resources:
 

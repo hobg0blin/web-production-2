@@ -13,43 +13,47 @@ Web Production II builds upon the tools employed in Web Production I to begin de
 This schedule is subject to change. Please check your e-mail and this course page regularly for the most up-to-date information.
 
 
-### [Class 1: Introductions](week1/)
+### [Class 1: Introductions](week1/) - 8/25
 - Course overview and syllabus
 - Setting up your home directory
 - Server-side scripting
 - HTML + CSS + JS review
-- [Reading & Assignment](week1/assignment.md)
+- [Reading & Assignment](week1/assignment.md) - Due Wednesday, September 1 at 8pm
 
-### Class 2: Drawing With Code
+### Class 2: Drawing With Code - 9/2
 
-### Class 3: Advanced JS: Object-Oriented Programming
+### Class 3: Advanced JS: Object-Oriented Programming - 9/9
 
-### Class 4: Random Access Memory: Media Controllers
+## NO CLASSES SCHEDULED 9/16 
 
-### Class 5: Interactive shorthand: introduction to jQuery
+### Class 4: Random Access Memory: Media Controllers - 9/23
+
+### Class 5: Interactive shorthand: introduction to jQuery - 9/30
 - **Midterm Assigned**
 
-### Class 6: Introduction to Node
+### Class 6: Introduction to Node - 10/7
 
-### Class 7: Midterm Crit, Debugging
+### Class 7: Midterm Crit, Debugging - 10/14
 - **Midterm Due**
 
-### Class 8: Making Your First Server
+### Class 8: Making Your First Server - 10/21
 
-### Class 9: Advanced Node: NPM and Yarn
+### Class 9: Advanced Node: NPM and Yarn - 10/28
 
-### Class 10: Databases! Intro to MongoDB
+### Class 10: Databases! Intro to MongoDB - 11/4
 
-### Class 11: Putting It All Together
+### Class 11: Putting It All Together - 11/11
 
-### Class 12: The Power Of AJAX
+### Class 12: The Power Of AJAX - 11/17
 
-### Class 13: Fun With Packages
+## NO CLASS 11/24 - Thanksgiving
+
+### Class 13: Fun With Packages - 12/2
 - **Final assigned**
 
-### Class 14: Work Session
+### Class 14: Work Session - 12/9
 
-### Class 15: Final presentations!
+### Class 15: Final presentations! - 12/16
 - **Final due**
 
 
