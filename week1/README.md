@@ -12,6 +12,12 @@
 [Place](https://en.wikipedia.org/wiki/Place_(Reddit))
 
 
+
+### In Class:
+
+[Better version of the live code examples](live-code/)
+
+
 ## Assigned
 ### Read:
 - [What Is A Web Server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)

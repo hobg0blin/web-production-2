@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-image {
+  display: block;
+}
+#sticky-header {
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+.right-float {
+  float: right;
+  background-color: red;
+  color: blue;
+}
+
+.explainer {
+  display: block;
+}
+
+.content {
+  text-align: center;
+}
+
+.about-me-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto; 
+  width: 80%;
+  margin: 0 auto;
+}
+
+.about-me-grid div {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.poem-box {
+  display: flex;
+  width: 20%;
+  margin: 0 auto;
+/*  flex-direction: column; */
+  flex-direction: column-reverse;
+
+}
+
+#color-change {
+  background-color: yellow;
+}
