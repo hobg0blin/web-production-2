@@ -6,7 +6,7 @@ Office hours TBD (for now, email me)
 
 ## Course Description
 
-Web Production II builds upon the tools employed in Web Production I to begin developing dynamic websites and other net.art works. Advanced coding methods will be introduced in HTML5, JavaScript, JQuery, AJAX, node.js, and JSON. Students will develop multiple interactive web projects using a range of methods and tools.
+Web Production II builds upon the tools employed in Web Production I to begin developing dynamic websites and other net.art works. Advanced coding methods will be introduced in HTML5, JavaScript, JQuery, AJAX, node.js, MongoDB, and JSON. Students will develop multiple interactive web projects using a range of methods and tools.
 
 ## Syllabus
 
