@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  text-align: center;
+}
+
+.scale-transition {
+  transition: transform 250ms;
+}
+
+.scale-transition:hover {
+  transform: scale(2)
+}

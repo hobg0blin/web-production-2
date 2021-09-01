@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  text-align: center;
+}
+
+section {
+  margin: 20px auto;
+  text-align: center;
+}
+
+/* Simple translations */
+
+.translate {
+  margin: 40px;
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+
+}
+
+
+
+.box {
+  margin: 40px auto;
+  width: 100px;
+  height: 100px;
+  /* this makes sure our text is centered */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  background-color: cyan;
+  color: white;
+}
+
+
+.btn {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin:10px;
+  border: none;
+  background: slateblue;
+  color: white;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+/* complex CSS animations: creating our own */
+
+.circle {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-color: purple;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  color: white;
+  margin: 160px auto;
+}
+
