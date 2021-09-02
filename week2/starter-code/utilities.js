@@ -1,6 +1,6 @@
 //Utility Functions
 // this just writes to the document but makes sure we add a line break
-function addBreak(el) {
+function W(el) {
   document.write(el + "<br>")
 }
 //this gets us an object

@@ -21,10 +21,11 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - [Reading & Assignment](week1/assignment.md) - Due Wednesday, September 1 at 8pm
 
 
-### Class 2: [JavaScript Review](week2/) - 9/2
+### [Class 2: JavaScript Review](week2/) - 9/2
 - Asynchronous due to storm
+- [Assignment](week2/assignment.md) - Due Wednesday, September 8 at 8pm
 
-### Class 3: [Class 2: Drawing With Code](week3/) - 9/9
+### [Class 3: Drawing With Code](week3/) - 9/9
 - [Reading & Assignment](week2/assignment.md)
 
 ## NO CLASSES SCHEDULED 9/16 
