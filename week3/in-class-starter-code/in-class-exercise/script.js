@@ -1,7 +1,6 @@
-let clickableBigger = O('clickable')
-clickableBigger.onclick = function(element) {
+let clickable = O('clickable')
+clickable.onclick = function(element) {
   //Add your own class and see what happens!
-  clickableBigger.classList.add("")
+  clickable.classList.add("")
 }
-
 
