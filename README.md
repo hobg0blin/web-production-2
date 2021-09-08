@@ -26,9 +26,9 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - [Assignment](week2/assignment.md) - Due Wednesday, September 8 at 8pm
 
 ### [Class 3: Drawing With Code](week3/) - 9/9
-- [Reading & Assignment](week2/assignment.md)
+- [Reading & Assignment](week3/assignment.md) - Due Wednesday, September 15 at 8pm
 
-## NO CLASSES SCHEDULED 9/16 
+## NO CLASSES SCHEDULED 9/16
 
 ### Class 4: Random Access Memory: Media Controllers - 9/23
 

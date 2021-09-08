@@ -23,7 +23,7 @@ var x=10;x+=5;x-=1;
 const myConst = 10 // i can't be redeclared
 W("I'm a constant: " + myConst)
 // if you try to redeclare a constant, you'll get an error
-
+// myConst = 5
 let myLet = 10
 W("I'm a let: " + myLet)
 myLet = 11

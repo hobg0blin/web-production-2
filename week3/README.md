@@ -1,4 +1,4 @@
-### Class 2 - Drawing With Code
+### Class 3 - Drawing With Code
 
 ## A Quick Reminder: Debugging JavaScript Code
 
@@ -27,6 +27,51 @@ Download the [in-class starter code](https://drive.google.com/file/d/1yEB4dZjnPz
 ### CSS Transitions & Animation
 
 There are more complicated ways of drawing with code using JavaScript, but we can do plenty with good old-fashioned CSS.
+
+We can [transform](https://css-tricks.com/almanac/properties/t/transform/) an object directly, so if we wanted to make an element 2 times bigger, we could do something like this:
+
+```
+.element {
+  transform: scale(2)
+}
+```
+
+But we can also animate our transforms (or any other changes we make to CSS) using [transitions](https://css-tricks.com/almanac/properties/t/transition/), which tell CSS that we want it to be animated a certain way. To make a transition happen in pure CSS, we need to declare it with a [pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+So we tell the parent class we want a transition to happen, and then use a pseudo-class (in this case `:hover`, which fires when we hover over the element):
+
+```
+.element {
+              /* tell it what’s transitioning, the speed to make the transition, and the [“timing function”](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
+  transition: transform .5s linear; 
+}
+.element:hover {
+  transform: scale(2)
+}
+```
+
+If we want to do more than just change something on hover, we can combine transitions with JavaScript! By adding a class to an element with JavaScript, and giving its parent a transition attribute, we can animate the change:
+
+
+
+CSS:
+```
+#my-element {
+  transition: all 1000ms ease-out;
+  width: 50px;
+  }
+.widen {
+  width: 150px;
+}
+```
+
+JS:
+```
+let element = document.getElementById(‘my-element’)
+element.onclick = function(element) {
+  element.classList.add(‘widen’)
+}
+```
+
 
 
 ### The Canvas
@@ -66,15 +111,15 @@ The starter code for a local p5 sketch is in this week’s starter files, but yo
 - [Introduction to p5](https://medium.com/comsystoreply/introduction-to-p5-js-9a7da09f20aa)
 
 
-### Assignment 2
+### Assignment 3
 
 - [Starter Code](https://drive.google.com/file/d/1OHcE8Zcm9OIs-xMjun9Tc8oPSnsLjNaW/view?usp=sharing)
 - Make your own iteration on one of the p5 sketches from class: self-portrait, abstract art. You’re welcome to use the assignment starter code or the code from class as a jumping off point, but you should add at least 3 new shapes or lines and show evidence of exploring with color, position, etc.
 - Or roll your own drawing! If you’re a more experienced JavaScript programmer, consider adding animation or movement.
 - If you decided to work in the p5 editor, don’t forget to hit `File > Download`, and add a `<link rel=”stylesheet” href=”styles.css”`> to your “index.html” for the next step.
 - In the `index.html` file for your p5 sketch, add an HTML element with at least one CSS animation or transition from class.
-- In your web production 2 folder, create a folder called `week2`
-- Put your finished code in the `week2` folder and commit and push to GitHub
+- In your web production 2 folder, create a folder called `week3`
+- Put your finished code in the `week3` folder and commit and push to GitHub
 - Check and make sure it uploaded to your GitHub page - it should be at {your github username}.github.io/week1/
 - Submit the link [here](https://docs.google.com/forms/d/e/1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform?usp=sf_link)
 
