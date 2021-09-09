@@ -1,6 +1,11 @@
 ### Class 3 - Drawing With Code
-[Live Code](css-animations)
-[As a Zip File](https://drive.google.com/file/d/18xporQnBTKJ5iN_b6DotibQyZn5NSVEe/view?usp=sharing)
+### In-class CSS
+- [Live Code](css-animations/)
+- [As a Zip File](https://drive.google.com/file/d/18xporQnBTKJ5iN_b6DotibQyZn5NSVEe/view?usp=sharing)
+#### In-class P5
+- [Self-portrait](https://editor.p5js.org/brondle/sketches/-M3YoLhbV)
+- [Animation](https://editor.p5js.org/brondle/sketches/Qrhj4f2po)
+- [Abstract Art](https://editor.p5js.org/brondle/sketches/XUScJq083)
 
 ## A Quick Reminder: Debugging JavaScript Code
 
