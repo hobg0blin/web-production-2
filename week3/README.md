@@ -1,4 +1,6 @@
 ### Class 3 - Drawing With Code
+[Live Code](css-animations)
+[As a Zip File](https://drive.google.com/file/d/18xporQnBTKJ5iN_b6DotibQyZn5NSVEe/view?usp=sharing)
 
 ## A Quick Reminder: Debugging JavaScript Code
 

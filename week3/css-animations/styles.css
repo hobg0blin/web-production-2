@@ -18,6 +18,7 @@ section {
   border: 1px solid black;
   width: 100px;
   height: 100px;
+
 }
 
 .translate-y:hover {
@@ -25,16 +26,19 @@ section {
 }
 
 .translate-x:hover {
-  transform: translateX(-20px);
+  transform: translateX(+20px);
 }
 
+/* so if we want to animate a transform, we declare a 'transition' on the parent class */
 .scale-transition {
   transition: transform 250ms;
 }
 
 .scale-transition:hover {
-  transform: scale(10)
+  transform: scale(5)
 }
+
+/* Transforming */
 
 .transforming {
   text-align: center;
@@ -54,21 +58,18 @@ section {
 }
 
 .rotate-forward {
-  transition: all 1000ms;
-}
-
-.rotate-forward:hover {
   transform: rotate(20deg);
 }
 
 .rotate-backward {
-  transform: rotate(-40deg);
+  transform: rotate(-20deg);
 }
 
 .skew {
-  transform: skew(45deg);
+  transform: skew(45deg)
 }
 
+/* Animating */
 .animating {
   text-align: left;
   margin: auto 10%;
@@ -88,27 +89,36 @@ section {
 }
 
 .btn:hover {
+  /* we can save ourselves the trouble of declaring the transform on each different class by just applying it to the button */
   transform: translateX(30vw);
 }
 
 .linear {
+ /* linear maintains the same speed */
   transition: transform 1000ms;
   transition-timing-function: linear;
 }
 
+
 .ease-out {
+  /* ease-out starts out fast and slows down */
+  /* we can also just put the timing function as an argument in the transition value */
   transition: transform 1000ms ease-out;
 }
 
+
 .ease-in {
+  /* ease-in starts out slow and speeds up */
+  /* we can also just put the timing function as an argument in the transition value */
   transition: transform 1000ms ease-in;
 }
 
+
 .ease-in-out {
+  /* this starts fast, slows down, then speeds up */
+  /* we can also just put the timing function as an argument in the transition value */
   transition: transform 1000ms ease-in-out;
 }
-
-/* complex CSS animations: creating our own */
 
 .circle {
   width: 120px;
@@ -123,23 +133,26 @@ section {
   color: white;
   margin: 160px 50%;
 }
+
+/* we can also add a transition with javascript, these are in the script.js file! */
 #clickable-bigger {
-  transition: all 1000ms;
+  transition: all 1000ms ease-out;
 }
 
 #clickable-move {
-  transition: all 6000ms;
+  transition: all 1000ms ease-in;
+}
+
+.make-bigger {
+  width: 140px;
 }
 
 .move-left {
-  margin-left: 0px;
-}
-.make-bigger {
-  width: 250px;
+  margin-left: 0;
 }
 
 #clickable-triangle {
-  transition: all 2000ms;
+  transition: all 1000ms ease-in-out;
 }
 
 .triangle {
@@ -150,23 +163,26 @@ section {
   margin: 160px 50%;
 }
 
+
+/* complex CSS animations: creating our own */
+
+
+
 @keyframes translating {
-  0% { transform: translate(0, 0);}
+  0%  { transform: translate(0, 0);}
   25% { transform: translate(140px, 0);}
   50% { transform: translate(140px, 140px);}
   75% { transform: translate(0, 140px);}
-  100% {transform: translate(0, 0);}
+  100%{ transform: translate(0, 0);}
 }
 
 .move-around {
-  animation: translating 1s linear infinite;
+  animation: translating 4s linear infinite;
 }
 
 @keyframes rotating {
-  0% {transform: rotate(0deg);}
-  100% { transform: rotate(360deg);}
+  0%  { transform: rotate(0deg);}
+  100%{ transform: rotate(360deg);}
 }
 
-.rotate {
-  animation: rotating 10s ease-in infinite;
-}
+.rotate { animation: rotating 4s linear infinite;}
