@@ -2,7 +2,7 @@ Web Production II (MEDP 33100)
 Instructor: [Brent Bailey](mailto:bb3257@hunter.cuny.edu)  
 Fall 2021  
 Thursdays 10:10am - 1:00pm  
-Office hours TBD (for now, email me)  
+Office hours Tuesday 5:00 - 6:00PM [Book](https://calendly.com/brentlbailey/office-hours)  
 
 ## Course Description
 
