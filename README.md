@@ -30,33 +30,32 @@ This schedule is subject to change. Please check your e-mail and this course pag
 
 ## NO CLASSES SCHEDULED 9/16
 
-### Class 4: Javascript Review 2.0/Object-Oriented Programming - 9/23
+### Class 4: Javascript Review 2.0 - 9/23
 
-### Class 5: Interactive shorthand: introduction to jQuery - 9/30
+### Class 5: Javascript Review 3.0/Object-Oriented Programming - 9/30
 
-### Class 6: jQuery and AJAX - 10/7
+### Class 6: Interactive shorthand: introduction to jQuery - 10/7
+
+### Class 7: jQuery and AJAX - 10/14
 - **Midterm Assigned**
 
-### Class 7: Intro to Node.js - 10/14
+### Class 8: Intro to Node.js - 10/21
 
-### Class 8: Midterm Crit, Debugging - 10/21
+### Class 9: Midterm Crit, Debugging - 10/28
 - **Midterm Due**
 
+### Class 10: Get/Post, Talking to The Frontend - 11/4
 
-### Class 9: Node + Templating - 10/28
+### Class 11: Node and Templating - 11/11
 
-### Class 10: NPM and Yarn - 11/4
-
-### Class 11: Databases! Intro to MongoDB - 11/11
-
-### Class 12: Putting It All Together - 11/17
+### Class 12: Databases! Intro to MongoDB - 11/17
 
 ## NO CLASS 11/24 - Thanksgiving
 
-### Class 13: Fun With Packages - 12/2
+### Class 13: Putting It All Together - 12/2
 - **Final assigned**
 
-### Class 14: Work Session - 12/9
+### Class 14: Intro to React/Work Session - 12/9
 
 ### Class 15: Final presentations! - 12/16
 - **Final due**
