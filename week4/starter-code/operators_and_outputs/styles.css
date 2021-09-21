@@ -16,3 +16,7 @@ section {
   height: 60px;
   background-color: green;
 }
+
+video {
+  width: 60%;
+}
