@@ -1,0 +1,65 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <script src="utility.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <title> JavaScript Review </title>
+  </head>
+  <body>
+    <main>
+      <script>
+        console.log("I'm in the HTML")
+      </script>
+      <h1 id="title"> Javascript Review </h1>
+      <section> <h2> Basics </h2>
+       <button onclick="console.log('wassup')">let's log to the console</button>
+       <button onclick="document.write('<p>hello</p>')"> this will overwrite the entire document </button>
+        <p> this will be interesting </p>
+        <p class="change-html"> nothing much to say here </p>
+      </section>
+      <section> 
+        <h2>Variables And Functions</h2>
+               <button onclick="sayWhassup()">
+                 say whassup
+               </button>
+               <button id="say-whassup">say whassup with an onclick function</button>
+               <button onclick="sayTheLine('we out here')">say the line</button>
+        </section>
+        <section>
+          <h2> Manipulating HTML </h2>
+               <button onclick="addBoxes()">Add Some Boxes</button>
+               <div id="box-container" class="box-container"></div>
+                  <div class="box" id="change-me">Click Me!</div>
+                  <div class="box" id="change-me-input"></div>
+              <div>
+                 <input id="set-color" type="text"></input><button id="change-color"> Change The Color</button>
+                </div>
+ 
+                <div id="change-my-width" class="box"></div>
+        <input id="set-width" type="text"></input><button onClick="changeBoxWidth()">Change Box Width</button>
+       </section>
+        
+        <section><h2> Control Flow</h2></section>
+        <div id="box-circle" class="box" onClick="changeBoxRadius()">Click Me!</div>
+        <div>
+    What would you like me to say? <select name="talk-to-me" id="talk-to-me">
+    <option value="compliment">Compliment</option>
+    <option value="insult">Insult</option>
+    <option value="question">Question</option>
+    <option value="fact">Random Fact</option>
+    </select> <button onClick="saySomething()">Say It!</button>
+    <p id="output-text"></p>
+        </div>
+
+        <section><h2> Now You Try! </h2>
+          <div class="box" id="change-margin"></div>
+          <div class="box" id="change-border"></div>
+          <button onClick="addToPage()">Add Something To The Page</button>
+          <p id="add-something"></p>
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
