@@ -30,7 +30,8 @@ This schedule is subject to change. Please check your e-mail and this course pag
 
 ## NO CLASSES SCHEDULED 9/16
 
-### Class 4: Javascript Review 2.0 - 9/23
+### [Class 4: Javascript Review 2.0](week4/) - 9/23
+- [Reading & Assignment](week4/assignment.md) - Due Wednesday, September 24 at 8pm
 
 ### Class 5: Javascript Review 3.0/Object-Oriented Programming - 9/30
 

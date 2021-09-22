@@ -7,11 +7,11 @@ JavaScript is the primary programming language that allows us to interact direct
 The simplest way to call a JavaScript script is just to put it directly in the HTML.
 
 We can call a simple function from a button:
-`<button onclick=”console.log(‘wassup’)`
+`<button onclick=”console.log(‘wassup’)>wassup</button>`
 
 And in the console, if we click the button, we should see it say “wassup”.
 
-<img src="img/console.png" width="800px">
+<img src="img/wassup.png" width="800px">
 
 We can also call a script directly in the HTML:
 
@@ -25,7 +25,8 @@ We can also call a script directly in the HTML:
 
 This isn’t generally considered a best practice, though. Especially on HTML pages that are already complicated, it’s nice to keep our JavaScript in a separate file, and try to organize and comment that code as best we can so we (or other people) know what it’s doing.
 
-We can call these external scripts using a script tag too, just using its `src attribute`:
+We can call these external scripts using a script tag too, just using its `src` attribute:
+
 **HTML**:
 ```
 <body>
