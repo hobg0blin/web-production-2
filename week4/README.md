@@ -16,7 +16,7 @@ You should see a window like this, which is incredibly useful: the top section a
 
 ### Part Two
 
-- [Complete In-class Starter Code](https://drive.google.com/file/d/1IX5Lfjh9KEKfOQ8ACWHjTHbLS9Yny_k4/view?usp=sharing)
+- [Complete In-class Starter Code](https://drive.google.com/file/d/1k4u6zL7anjMCxM7HymOGQlFFTXrzJ38U/view?usp=sharing)
 - [Media Player Starter Code](https://drive.google.com/file/d/1Flrb4ElphWouz-xQv8Sa0MEWU75jMtHZ/view?usp=sharing)
 - [Fortune Teller Starter Code](https://drive.google.com/file/d/15t3S_vbAtM8sNp1rYRltFlVllQiE4buq/view?usp=sharing)
 
@@ -57,11 +57,11 @@ Create your own iteration on the fortune teller app.
 - Style at least two elements on the page using JavaScript - no CSS this week!
 - You can also do this by adding styling in an if or switch statement, like case 5 setting a red background color
 - Add a new input (it can be a select, text input, number, or anything else) and use its value in an if/else, switch statement, or function to add to the fortune
-- Add at least two more options to the switch statement (You’ll need to add more options to the <select> tag!)
+- Add at least two more options to the switch statement (You’ll need to add more options to the `<select>` tag!)
 
 ## Either Option
 - In your web production 2 folder, create a folder called `week4`
 - Put your finished code in the `week4` folder and commit and push to GitHub
 - Check and make sure it uploaded to your GitHub page - it should be at {your github username}.github.io/week4/
-- Submit the link [here](https://docs.google.com/forms/d/e/1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform?usp=sf_link)
+- Submit the link [here](https://docs.google.com/forms/d/e/``1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform?usp=sf_link)
 

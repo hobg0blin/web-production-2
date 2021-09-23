@@ -29,9 +29,10 @@ Create your own iteration on the fortune teller app.
 - Style at least two elements on the page using JavaScript - no CSS this week!
 - You can also do this by adding styling in an if or switch statement, like case 5 setting a red background color
 - Add a new input (it can be a select, text input, number, or anything else) and use its value in an if/else, switch statement, or function to add to the fortune
-- Add at least two more options to the switch statement (You’ll need to add more options to the <select> tag!)
+- Add at least two more options to the switch statement (You’ll need to add more options to the `<select>` tag!)
 
 ## Either Option
+
 - In your web production 2 folder, create a folder called `week4`
 - Put your finished code in the `week4` folder and commit and push to GitHub
 - Check and make sure it uploaded to your GitHub page - it should be at {your github username}.github.io/week4/
