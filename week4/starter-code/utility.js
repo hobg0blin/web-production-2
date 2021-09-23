@@ -26,5 +26,3 @@ function C(i)
 // myarray = C('myclass')
 // for (i = 0 ; i < myarray.length ; ++i)
 //  S(myarray[i]).textDecoration = 'underline'
-
-

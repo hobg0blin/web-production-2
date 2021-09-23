@@ -14,11 +14,17 @@ You should see a window like this, which is incredibly useful: the top section a
  
 <img src="img/console.png" width="800px">
 
+### Part Two
+
+- [Complete In-class Starter Code](https://drive.google.com/file/d/1IX5Lfjh9KEKfOQ8ACWHjTHbLS9Yny_k4/view?usp=sharing)
+- [Media Player Starter Code](https://drive.google.com/file/d/1Flrb4ElphWouz-xQv8Sa0MEWU75jMtHZ/view?usp=sharing)
+- [Fortune Teller Starter Code](https://drive.google.com/file/d/15t3S_vbAtM8sNp1rYRltFlVllQiE4buq/view?usp=sharing)
+
 ### Inspiration
 
 - [A Dark Room](https://adarkroom.doublespeakgames.com/)
 - [ClickClickClick](https://clickclickclick.click/#2010dffdfe72c982325bc703942a3e47)
-
+- [Best Vanilla JS Websites]*(https://www.awwwards.com/websites/vanilla-js/)
 
 ## Reading & Assignment
 
