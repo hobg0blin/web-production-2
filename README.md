@@ -1,8 +1,11 @@
-Web Production II (MEDP 33100)  
-Instructor: [Brent Bailey](mailto:bb3257@hunter.cuny.edu)  
-Fall 2021  
-Thursdays 10:10am - 1:00pm  
-Office hours Tuesday 5:00 - 6:00PM [Book](https://calendly.com/brentlbailey/office-hours)  
+## Web Production II (MEDP 33100)  
+**Instructor**: [Brent Bailey](mailto:bb3257@hunter.cuny.edu)  
+Fall 2021    
+Thursdays 10:10am - 1:00pm  - Hunter North Room 470  
+
+**Office hours**: Tuesday 5:00 - 6:00PM [Book here](https://calendly.com/brentlbailey/office-hours) 
+
+**Homework Submissions**: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform)  
 
 ## Course Description
 
@@ -31,9 +34,9 @@ This schedule is subject to change. Please check your e-mail and this course pag
 ## NO CLASSES SCHEDULED 9/16
 
 ### [Class 4: Javascript Review 2.0](week4/) - 9/23
-- [Reading & Assignment](week4/assignment.md) - Due Wednesday, September 24 at 8pm
+- [Reading & Assignment](week4/assignment.md) - Due Wednesday, September 29 at 8pm
 
-### Class 5: Javascript Review 3.0/Object-Oriented Programming - 9/30
+### Class 5: Javascript Review 3.0 - 9/30
 
 ### Class 6: Interactive shorthand: introduction to jQuery - 10/7
 
