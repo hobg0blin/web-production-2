@@ -1,9 +1,9 @@
 ## Web Production II (MEDP 33100)  
 **Instructor**: [Brent Bailey](mailto:bb3257@hunter.cuny.edu)  
 Fall 2021    
-Thursdays 10:10am - 1:00pm  - Hunter North Room 470  
+Thursdays 10:10am - 1:00pm  - Hunter North Room 470   
 
-**Office hours**: Tuesday 5:00 - 6:00PM [Book here](https://calendly.com/brentlbailey/office-hours) 
+**Office hours**: Tuesday 5:00 - 6:00PM [Book here](https://calendly.com/brentlbailey/office-hours)
 
 **Homework Submissions**: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform)  
 
@@ -147,7 +147,3 @@ Security -B125 West - 772 – 4444;
 Medical Office - Room 307 North - 772 – 4800 (During business hours) Office of Student
 Services - 1119 East - 772 – 4882 4891 (crisis counseling available), The Women's Center - 801
 East - 772 – 4931.
-
-
-
-
