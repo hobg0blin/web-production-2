@@ -9,13 +9,14 @@ Download and open the [starter code](https://drive.google.com/file/d/1WcsCXX1DsH
 ## Part 1: Arrays And Loops
 - Tutorial - open the arrays and loops folder and follow along in index.html and script.js
 
-### Exercise (Pick One)
-#### Text
+#### Exercise (Pick One)
+##### Text
 In the `exercise` folder, either create a simple array of things you’re interested in and try accessing items by index, displaying them on the page in a for loop in the `addArray() function`, reversing them, changing their styles - anything else you’d like to try. You can try adding them using the createLi function included or roll your own. Once you’ve added them in a for loop, try using the `addItems()` function to add new ones
 
-#### Images:
+##### Images:
 In the `exercise_img` folder, create an array of image sources - you can get links in google image search by left clicking an image and hitting “copy image link”. 
-- Try adding them to the page in a for loop in the `addImages()` function - I’ve included
+- Try adding them to the page in a for loop in the `addImages()` function I’ve included.
+- Try adding a button that reverses them, or displays a single image
 - Try adding new image sources using the input button
 
 ## Part 2 - Objects
@@ -39,30 +40,27 @@ In the `exercise_img` folder, create an array of image sources - you can get lin
 ## Assignment - [Starter Code](https://drive.google.com/file/d/1Ogj5CTEg5Ha4EEQuG7NaijXLV35h9dck/view?usp=sharing)
 
 ### Option 1: Object Story (assignment_story in the [starter code](https://drive.google.com/file/d/1Ogj5CTEg5Ha4EEQuG7NaijXLV35h9dck/view?usp=sharing))
-- Using the starter code, create your own array of at least 5 objects each that writes a short story
+Using the starter code, create your own array of at least 5 objects each and use it to write a short story.
 - (Or whatever you’d like - you could write a series of recipes, or a poem, or a list of complaints, or mad libs)
-- Each object should have least **four** key/value pairs, like - `[{noun: ‘dog’, adjective: ‘brown’, verb: ‘ran’, adverb: ‘quickly’}]`
-- Use unique keys and values, not just the example ones
-- Use a for loop over the array in the `showElements()` function to add your keys and values to the container
-- You can use the `createDiv()` function to add them or come up with your own way
-- In the HTML, add an input for your extra keys so you can add to your array
-- Update the addItems() function to use your keys
-- If you use it, modify the structure of the sentence in `createDiv()`
+- Each object should have least **four** key/value pairs, like - `[{noun: ‘dog’, adjective: ‘brown’, verb: ‘ran’, adverb: ‘quickly’}]` - but come up with your own, don’t just use mine!
+- Use a for loop over the array to add your keys and values to the container.
+- You can use the included `showElements()` and `createDiv()` functions to add them or come up with your own way (if you use `createDiv()`, add more to the sentence)
+- Update the HTML and `addItems()` functions for your extra keys so you can add to the array
 - Feel free to add your own CSS styles
-- Bonus points if you use document.querySelector on the added elements to change the HTML (add an onclick handler, change a style)
-- Bonus points if you use an array as a key value and iterate over that
-- Bonus points if you use the getRandomItem() function to make it randomized, or use random keys
+- Bonus points: use an array as a key value and iterate over that; use the getRandomItem() function to make it randomized; use a querySelector() to add an onclick function or change the HTML
 
 ### Option 2: Image Collage (assignment_img in the [starter code](https://drive.google.com/file/d/1Ogj5CTEg5Ha4EEQuG7NaijXLV35h9dck/view?usp=sharing))
+Create an image collage using an array of objects.
 - Using the starter code, create your own array of at least 5 objects with image sources and attributes
 - In the `addImage()` function, add a for loop that adds them to the page using the `createDiv()` function
 - They’re already absolutely positioned, so set position attributes for them in the object keys and apply them in the `createDiv()` function - like the “top” and “left” in the starter code
-- Make an image collage using the positioning in each object
 - Add at least one key/value pair to each object that styles either the <div> or the <img> in the `createDiv()` function (like the width and height or top and left in the starter code)
 - You can also add captions or other elements from your object - go wild!
 - Feel free to add your own CSS styles as well
-<img src=”img/collage.png” width=”800px” />
-- One possible outcome from your collage
+- Bonus points: use a querySelector to add an onclick function to them; add a button that changes their HTML or order
+
+<img src='img/collage.png' width='800px' >
+(One possible outcome from your collage)
 
 ## Either Option
 

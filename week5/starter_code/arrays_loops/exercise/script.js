@@ -1,5 +1,5 @@
 // create an array of things you're interested in
-let myArray = []
+let myArray = ['dogs', 'thats about it']
 
 let container = O('array-container')
 
