@@ -31,6 +31,7 @@ In the `exercise_img` folder, create an array of image sources - you can get lin
 - [For...in vs. For.. of](https://bitsofco.de/for-in-vs-for-of/)
 - [JavaScript Arrow Notation](https://www.w3schools.com/js/js_arrow_function.asp)
 - [Document.createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+- [JSON Syntax](https://www.w3schools.com/js/js_json_syntax.asp)
 
 ## Reading
 - [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
@@ -48,6 +49,7 @@ Using the starter code, create your own array of at least 5 objects each and use
 - Update the HTML and `addItems()` functions for your extra keys so you can add to the array
 - Feel free to add your own CSS styles
 - Bonus points: use an array as a key value and iterate over that; use the getRandomItem() function to make it randomized; use a querySelector() to add an onclick function or change the HTML
+
 
 ### Option 2: Image Collage (assignment_img in the [starter code](https://drive.google.com/file/d/1Ogj5CTEg5Ha4EEQuG7NaijXLV35h9dck/view?usp=sharing))
 Create an image collage using an array of objects.

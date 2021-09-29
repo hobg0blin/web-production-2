@@ -27,7 +27,7 @@ function addSentence() {
   // create a new object - again, change this to your own keys
   let item = {noun: noun, adjective: adjective, verb: verb}
   mySentences.push(item)
-  console.log('my sentences: '. mySentences)
+  console.log('my sentences: ', mySentences)
   //if we don't call showElements again, it won't display the new one
   showElements(mySentences)
   //zero out the inputs

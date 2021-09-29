@@ -8,6 +8,7 @@
 - [For...in vs. For.. of](https://bitsofco.de/for-in-vs-for-of/)
 - [JavaScript Arrow Notation](https://www.w3schools.com/js/js_arrow_function.asp)
 - [Document.createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+- [JSON Syntax](https://www.w3schools.com/js/js_json_syntax.asp)
 
 ## Reading
 - [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
@@ -19,13 +20,13 @@
 ### Option 1: Object Story (assignment_story in the [starter code](https://drive.google.com/file/d/1Ogj5CTEg5Ha4EEQuG7NaijXLV35h9dck/view?usp=sharing))
 - Using the starter code, create your own array of at least 5 objects each that writes a short story
 - (Or whatever you’d like - you could write a series of recipes, or a poem, or a list of complaints, or mad libs)
-- Each object should have least **four** key/value pairs, like - `[{noun: ‘dog’, adjective: ‘brown’, verb: ‘ran’, adverb: ‘quickly’}]`
+- Each object should have least **four** key/value pairs, like - `[{noun: ‘dog’, adjective: ‘brown’, verb: ‘ran’, adverb: ‘quickly’}]` - come up with your own keys and values
 - Use a for loop over the array in the `showElements()` function to add your keys and values to the container
 - In the HTML, add an input for your extra keys so you can add to your array
 - Update the addItems() function to add your extra keys
 - Feel free to add your own CSS styles
-- Bonus points if you use document.querySelector on the added elements to change the HTML (add an onclick handler, change a style)
-- Bonus points if you use an array as a key value and iterate over that
+- Bonus points: use an array as a key value and iterate over that; use the getRandomItem() function to make it randomized; use a querySelector() to add an onclick function or change the HTML
+
 
 ### Option 2: Image Collage (assignment_img in the [starter code](https://drive.google.com/file/d/1Ogj5CTEg5Ha4EEQuG7NaijXLV35h9dck/view?usp=sharing))
 - Using the starter code, create your own array of at least 5 objects with image sources and attributes
@@ -35,6 +36,12 @@
 - Add at least one key/value pair to each object that styles either the <div> or the <img> in the `createDiv()` function (like the width and height or top and left in the starter code)
 - You can also add captions or other elements from your object - go wild!
 - Feel free to add your own CSS styles as well
+- Bonus points: use a querySelector to add an onclick function to them; add a button that changes their HTML or order
+
+
+<img src='img/collage.png' width='800px' >
+(One possible outcome from your collage)
+
 
 ## Either Option
 
