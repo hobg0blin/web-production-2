@@ -1,27 +1,3 @@
-# Class 5: JavaScript Review 3.0
-
-- [Notes for today](notes.md)
-
-## Setup
-
-Download and open the [starter code](https://drive.google.com/file/d/1WcsCXX1DsHpPO5XiFghSh5Jc46QRgE0f/view?usp=sharing) in the browser and Atom. Don’t forget to open the console!
-
-## Part 1: Arrays And Loops
-- Tutorial - open the arrays and loops folder and follow along in index.html and script.js
-
-### Exercise (Pick One)
-#### Text
-In the `exercise` folder, either create a simple array of things you’re interested in and try accessing items by index, displaying them on the page in a for loop in the `addArray() function`, reversing them, changing their styles - anything else you’d like to try. You can try adding them using the createLi function included or roll your own. Once you’ve added them in a for loop, try using the `addItems()` function to add new ones
-
-#### Images:
-In the `exercise_img` folder, create an array of image sources - you can get links in google image search by left clicking an image and hitting “copy image link”. 
-- Try adding them to the page in a for loop in the `addImages()` function - I’ve included
-- Try adding new image sources using the input button
-
-## Part 2 - Objects
-- Tutorial: follow along in script.js and index.html in the “objects” folder
-- Exercise/assignment: pick one of the options from the assignment below and start on it - due Wednesday, October 6 at 8pm.
-
 ## Reference
 
 - [All HTML Color Names](https://www.w3schools.com/colors/colors_groups.asp)

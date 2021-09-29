@@ -168,6 +168,19 @@ pit bull
 sheepdog
 ```
 
+Or you can use .forEach:
+
+```
+let catArray = [‘siamese’, ‘black’, ‘hairless’]
+catArray.forEach(function(cat) {
+  console.log(cat)
+})
+siamese
+black
+hairless
+```
+
+
 #### Objects
 
 An object is a collection of data or functionalities - basically, it’s a set of key/value pairs that can store almost anything in JavaScript, including arrays, other objects, and functions. Objects are the core of JavaScript - understanding and using objects well will put you in a position to become a great JavaScript programmer.

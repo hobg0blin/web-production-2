@@ -17,11 +17,11 @@ function addImages(imageArray) {
 }
 
 O('add-button').onclick = function() {
-  let input = O('add-item')
-  myArray.push(input.value)
-  console.log(myArray)
-  // call addArray again to display the new item
-  addArray(myArray)
+  let input = O('add-image')
+  myImages.push(input.value)
+  console.log(myImages)
+  // call addImages again to display the new item
+  addImages(myImages)
   input.value = ''
 }
 function createImage(src) {

@@ -41,3 +41,10 @@ function createDiv(object) {
   div.textContent = 'The ' + ' ' + object.adjective + ' ' object.noun + ' ' object.verb + ' ' + object.adverb
   return div
 }
+
+function getRandomItem(array) {
+  //don't worry about the math here, this just selects a random item from the array
+  //but it could be useful if you want to do something similar!
+
+return array[Math.floor(Math.random()*array.length)]
+}
