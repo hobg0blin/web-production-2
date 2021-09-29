@@ -1,0 +1,42 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <script src="utility.js"></script>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main>
+      <section> <h2>Objects</h2>
+        <p>
+        <div id="blueberry"></div><button onClick="appendBlueberry()">Tell Me About Blueberries</button>
+        </p>
+        <p>
+        <div id="orange"></div><button onclick="appendOrange()">Tell Me About Oranges</button>
+        </p>
+        <p>
+        <div id="banana"></div><button onclick="appendBanana()">Tell Me About Bananas</button>
+        
+        <div id="fruit-library" class="fruit-flex"></div>
+        <div class="add-fruit">          
+          <h3>Add A Fruit</h3>
+          <p> Name: <input id="fruit-name"> </p>
+          <p> Flavor: <input id="fruit-flavor"> </p>
+          <p> Color: <input id="fruit-color"> </p>
+          <button onclick="addFruit()"> Add My Fruit </button>
+        </div>
+
+        <div id="find-my-fruit">
+          <p>
+          <input id='fruit-search' type="text" /> <button id="find-fruit">Find Fruit
+          </button>
+          </p>
+          <p id="fruit-information"></p>
+        </div>
+        <div id="pizza-toppings">
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
