@@ -1,3 +1,5 @@
+- [Notes for today](notes.md)
+
 ## Reference
 
 - [All HTML Color Names](https://www.w3schools.com/colors/colors_groups.asp)
