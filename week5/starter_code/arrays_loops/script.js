@@ -1,6 +1,5 @@
+// simple array operations
 let animalsArray = ['dog', 'cat', 'rat', 'bat']
-//getting array length
-//
 
 
 
@@ -29,12 +28,13 @@ O('add-button').onclick = function() {
 
 
 let someColors = ['green', 'red', 'blue', 'yellow', 'purple']
+//add elements to the HTMl
 
 O('append-elements').onclick = function() {
 }
 
-// use a for loop to add a color to the elements and set their inner text
-function addColors(elements, colors) {
+// use a for loop to interact with html
+ function addColors(elements, colors) {
 }
 
 // nested arrays

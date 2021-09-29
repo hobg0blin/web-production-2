@@ -38,7 +38,8 @@ This schedule is subject to change. Please check your e-mail and this course pag
 ### [Class 4: Javascript Review 2.0](week4/) - 9/23
 - [Reading & Assignment](week4/assignment.md) - Due Wednesday, September 29 at 8pm
 
-### Class 5: Javascript Review 3.0 - 9/30
+### [Class 5: Javascript Review 3.0](week5/) - 9/30
+- [Reading & Assignment](week5/assignment.md) - Due Wednesday, October 6 at 8pm
 
 ### Class 6: Interactive shorthand: introduction to jQuery - 10/7
 
@@ -50,9 +51,9 @@ This schedule is subject to change. Please check your e-mail and this course pag
 ### Class 9: Midterm Crit, Debugging - 10/28
 - **Midterm Due**
 
-### Class 10: Get/Post, Talking to The Frontend - 11/4
+### Class 10: Node and Templating - 11/4
 
-### Class 11: Node and Templating - 11/11
+### Class 11: Get/Post, Talking to The Frontend - 11/11
 
 ### Class 12: Databases! Intro to MongoDB - 11/17
 

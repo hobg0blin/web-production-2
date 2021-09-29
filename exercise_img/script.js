@@ -4,12 +4,13 @@ let myImages = [{'src': 'https://post.medicalnewstoday.com/wp-content/uploads/si
 function addImages(imageArray) {
   let container = O('image-container')
   //loop over our list of objects
-    //inside the loop
+  for (let i=0; i < imageArray.length; i++) {
     //create an image div
-    //let imgDiv = createImage(imageArray[i])
+    let imgDiv = createImageDiv(imageArray[i])
     //add caption:
-    //imgDiv.innerHTML += "<p>" + imageArray[i].caption + "</p>"
-  //container.appendChild(imgDiv)
+    imgDiv.innerHTML += "<p>" + imageArray[i].caption + "</p>"
+    container.appendChild(imgDiv)
+  }
 }
 
 function createImage(imageObject) {
@@ -17,9 +18,9 @@ function createImage(imageObject) {
   // we're using a div so we can add things like captions to it
   let containerDiv = document.createElement("div")
   //set container class
-  containerDiv.className = "image-container"
+  containerDiv.setAttribute("class", "image-container")
   //set container div styles
-  S(containerDiv).top = imageObject.top
+   S(containerDiv).top = imageObject.top
   S(containerDiv).left =  imageObject.left
   let img = document.createElement("img")
   // set image attributes

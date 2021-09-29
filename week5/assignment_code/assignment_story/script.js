@@ -1,6 +1,6 @@
 //Make your own array of 5 objects with at least 4 keys
 // This one only has 3 right now!
-let myItems = [{'noun': 'dog', 'adjective': 'brown', 'verb': 'ran'}]
+let mySentences = [{'noun': 'dog', 'adjective': 'brown', 'verb': 'ran'}]
 
 
 function showElements(array) {
@@ -10,11 +10,11 @@ function showElements(array) {
   //use a for loop to add the items from the array - you can just add it to the innerHTML, or use the createDiv function below and .appendChild to the container
 }
 
-showElements(myItems)
+showElements(mySentences)
 
 
 
-function addItem() {
+function addSentence() {
   // add inputs for your own keys
   let nounInput = O('key-1')
   let adjectiveInput = O('key-2')
@@ -26,9 +26,10 @@ function addItem() {
   let verb = verbInput.value
   // create a new object - again, change this to your own keys
   let item = {noun: noun, adjective: adjective, verb: verb}
-  myItems.push(item)
+  mySentences.push(item)
+  console.log('my sentences: '. mySentences)
   //if we don't call showElements again, it won't display the new one
-  showElements(myItems)
+  showElements(mySentences)
   //zero out the inputs
   nounInput.value = ''
   adjectiveInput.value = ''
@@ -38,7 +39,7 @@ function addItem() {
 function createDiv(object) {
   let div = document.createElement("div")
   //you could add more properties to the textContent, or set its innerHTML to properties
-  div.textContent = 'The ' + ' ' + object.adjective + ' ' object.noun + ' ' object.verb + ' ' + object.adverb
+  div.textContent = 'The ' + object.adjective + ' ' + object.noun + ' ' + object.verb
   return div
 }
 

@@ -1,6 +1,9 @@
+// simple object operations
 let fruit = {"name": "banana"}
 
 let complexFruit = {"name": "blueberry", "color": "blue", "flavor": "sweet"}
+
+//adding an object to the DOM with innerHTML
 
 function appendBlueberry() {
   let blueberryDescription = O('blueberry')
@@ -10,6 +13,7 @@ function appendBlueberry() {
 
 }
 
+// using createElement
 function createDiv(attribute, fruitProperty) {
 }
 
@@ -21,17 +25,15 @@ function appendOrange() {
 
 let banana = {'name': 'banana', 'color': 'yellow', 'flavor': 'depends on how ripe it is'}
 
-// but this is still a lot of typing, so
-// let's try looping over it!
+// looping over a single object
 function appendBanana() {
   let bananaDescription = O('banana')
 }
 
 // arrays of objects
-
 let fruitArray = [{'name': 'orange', 'color': 'orange', 'flavor': 'citrus'}, {'name': 'blueberry', 'color': 'blue', 'flavor': 'sweet'}, {'name': 'banana', 'color': 'yellow', 'flavor': 'depends on how ripe it is'}]
 
-
+//adding an array of objects to the DOM
 function makeFruitLibrary(array) {
   let library = O('fruit-library')
   //clear out the HTML in case we call it again
@@ -39,14 +41,13 @@ function makeFruitLibrary(array) {
 }
 makeFruitLibrary(fruitArray)
 
-//now let's try doing the reverse and iterating over the array from the dom, now that we've added all these divs
-
-
+// getting an array of DOM elements
 function showFruitInformation(HTMLArray, objectArray) {
 }
 
 showFruitInformation(elementArray, fruitArray)
 
+//adding to our array
 function addFruit() {
   let nameInput = O('fruit-name')
   let flavorInput = O('fruit-flavor')
@@ -57,6 +58,7 @@ function addFruit() {
   colorInput.value = ''
 }
 
+// advanced array functions
 let searchButton = O('find-fruit')
 searchButton.onclick = function() {
 }
@@ -71,5 +73,4 @@ let pizzaObject = {'neapolitan': {'toppings': ['mozzarella', 'tomato sauce', 'ba
 
 let pizzaContainer = O('pizza-toppings')
 
-//loop over the keys of our pizza container
-
+// looping over an object with an array as a key
