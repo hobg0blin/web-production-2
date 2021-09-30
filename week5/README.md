@@ -8,6 +8,7 @@ Download and open the [starter code](https://drive.google.com/file/d/1WcsCXX1DsH
 
 ## Part 1: Arrays And Loops
 - Tutorial - open the arrays and loops folder and follow along in index.html and script.js
+- [Tutorial Code](https://drive.google.com/file/d/1Uz9yEQ4qu2dWLvjE89JmPZB3u4aoZc3y/view?usp=sharing)
 
 #### Exercise (Pick One)
 ##### Text
