@@ -22,6 +22,7 @@ In the `exercise_img` folder, create an array of image sources - you can get lin
 
 ## Part 2 - Objects
 - Tutorial: follow along in script.js and index.html in the “objects” folder
+- [Tutorial Code](https://drive.google.com/file/d/1VzxZr287JGMmZ4B_bF3fj0t64gWa1rNw/view?usp=sharing)
 - Exercise/assignment: pick one of the options from the assignment below and start on it - due Wednesday, October 6 at 8pm.
 
 ## Reference
@@ -38,6 +39,10 @@ In the `exercise_img` folder, create an array of image sources - you can get lin
 - [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 - [Looping code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 - [Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+
+#### - [Array Tutorial Code](https://drive.google.com/file/d/1Uz9yEQ4qu2dWLvjE89JmPZB3u4aoZc3y/view?usp=sharing)
+#### - - [Object Tutorial Code](https://drive.google.com/file/d/1VzxZr287JGMmZ4B_bF3fj0t64gWa1rNw/view?usp=sharing)
+
 
 ## Assignment - [Starter Code](https://drive.google.com/file/d/1Ogj5CTEg5Ha4EEQuG7NaijXLV35h9dck/view?usp=sharing)
 
@@ -57,7 +62,7 @@ Create an image collage using an array of objects.
 - Using the starter code, create your own array of at least 5 objects with image sources and attributes
 - In the `addImage()` function, add a for loop that adds them to the page using the `createDiv()` function
 - They’re already absolutely positioned, so set position attributes for them in the object keys and apply them in the `createDiv()` function - like the “top” and “left” in the starter code
-- Add at least one key/value pair to each object that styles either the <div> or the <img> in the `createDiv()` function (like the width and height or top and left in the starter code)
+- Add at least one key/value pair to each object that styles either the `<div>` or the `<img>` in the `createDiv()` function (like the width and height or top and left in the starter code)
 - You can also add captions or other elements from your object - go wild!
 - Feel free to add your own CSS styles as well
 - Bonus points: use a querySelector to add an onclick function to them; add a button that changes their HTML or order
