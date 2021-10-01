@@ -18,6 +18,22 @@ Web Production II builds upon the tools employed in Web Production I to begin de
 This schedule is subject to change. Please check your e-mail and this course page regularly for the most up-to-date information.
 
 
+## Student GitHubs
+
+<table>
+<tr><th>Student Name</th><th>Student GitHub/Page</th><th>Student Name</th><th>Student GitHub/Page</th></tr>
+<tr><td>Adonis Edwards</td><td><a href='https://github.com/aaaadonis/web-production-2'>Githubi</a><br><a href='https://aaaadonis.github.io/web-production-2'>Page</a></td><td>Kelly Lai</td><td><a href='https://github.com/laikelly/web-production-2'>GitHub<br><a href='https://laikelly.github.io/web-production-2/'>Page</td></tr>
+<tr><td>Siddique Baksh</td><td><a href='https://github.com/sbaksh4527/medp331'>Github</a><br><a href='https://sbaksh4527.github.io/medp331/'>Page</a></td><td>Claudia Martinez</td><td><a href='https://github.com/claudia00/claudia00.github.io/tree/master/htmlPages/HunterClasses/WebProduction'>GitHub</a><br/><a href='https://claudia00.github.io/htmlPages/HunterClasses/WebProduction/index.html'>Page</a></td></tr>
+<tr><td>JP Perez</td><td><a href='https://github.com/jpaulp22/MEDP331'>GitHub</a><br><a href='https://jpaulp22.github.io/MEDP331/'>Page</a></td><td>Yoselin Castelan Ramirez</td><a href='https://github.com/yoselinram97/web-production-2'>GitHub</a><br><a href='https://yoselinram97.github.io/web-production-2/'>Page</a></td></tr>
+  <tr><td>Justin Alpizar</td><td><a href='https://github.com/ja5046/web-production-2'>GitHub</a><br><a href='https://ja5046.github.io/web-production-2/week1/'>Page</a></td><td>Jason Wong</td><td><a href='https://github.com/ShadowViper/ShadowViper.github.io/tree/main/medp331'>GitHub</a><br><a href='https://shadowviper.github.io/medp331/class_1/index.html'>Page</a></td></tr>
+<tr><td>Neil Alcaraz</td><td><a href='https://github.com/neilalcaraz/web-production-2-main'>GitHub</a><br>Page</td><td>Derek Chong</td><td><a href='https://github.com/derekc97/webproduction2'>GitHub</a><br>Page</td></tr>
+<tr><td>Marianny Pantophlet</td><td><a href='https://github.com/macymeca12/web-production-2'>GitHub</a><br><a href='https://macymeca12.github.io/web-production-2/'>Page</a></td></tr>
+</table>
+
+
+
+
+
 ### [Class 1: Introductions](week1/) - 8/25
 - Course overview and syllabus
 - Setting up your home directory
