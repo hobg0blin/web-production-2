@@ -13,24 +13,29 @@ Thursdays 10:10am - 1:00pm  - Hunter North Room 470
 
 Web Production II builds upon the tools employed in Web Production I to begin developing dynamic websites and other net.art works. Advanced coding methods will be introduced in HTML5, JavaScript, JQuery, AJAX, node.js, MongoDB, and JSON. Students will develop multiple interactive web projects using a range of methods and tools.
 
-## Syllabus
 
-This schedule is subject to change. Please check your e-mail and this course page regularly for the most up-to-date information.
+## Useful Resources
+Sections of these are assigned readings, but the full texts may be useful to revisit.
+- [Learn JavaScript - Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+- [Beginning jQuery](https://drive.google.com/file/d/1ZuiyknWkms7KNrmnyxBvld8i3aWnQYoj/view?usp=sharing)
+- [Web Development With Node & Express](https://drive.google.com/file/d/1ip-1kA9k3VzpIOL0gczB09umHAgw_r5a/view?usp=sharing)
+
 
 
 ## Student GitHubs
 
 <table>
 <tr><th>Student Name</th><th>Student GitHub/Page</th><th>Student Name</th><th>Student GitHub/Page</th></tr>
-<tr><td>Adonis Edwards</td><td><a href='https://github.com/aaaadonis/web-production-2'>Githubi</a><br><a href='https://aaaadonis.github.io/web-production-2'>Page</a></td><td>Kelly Lai</td><td><a href='https://github.com/laikelly/web-production-2'>GitHub<br><a href='https://laikelly.github.io/web-production-2/'>Page</td></tr>
+<tr><td>Adonis Edwards</td><td><a href='https://github.com/aaaadonis/web-production-2'>Github</a><br><a href='https://aaaadonis.github.io/web-production-2/assign-1/'>Page</a></td><td>Kelly Lai</td><td><a href='https://github.com/laikelly/web-production-2'>GitHub<br><a href='https://laikelly.github.io/web-production-2/'>Page</td></tr>
 <tr><td>Siddique Baksh</td><td><a href='https://github.com/sbaksh4527/medp331'>Github</a><br><a href='https://sbaksh4527.github.io/medp331/'>Page</a></td><td>Claudia Martinez</td><td><a href='https://github.com/claudia00/claudia00.github.io/tree/master/htmlPages/HunterClasses/WebProduction'>GitHub</a><br/><a href='https://claudia00.github.io/htmlPages/HunterClasses/WebProduction/index.html'>Page</a></td></tr>
-<tr><td>JP Perez</td><td><a href='https://github.com/jpaulp22/MEDP331'>GitHub</a><br><a href='https://jpaulp22.github.io/MEDP331/'>Page</a></td><td>Yoselin Castelan Ramirez</td><a href='https://github.com/yoselinram97/web-production-2'>GitHub</a><br><a href='https://yoselinram97.github.io/web-production-2/'>Page</a></td></tr>
-  <tr><td>Justin Alpizar</td><td><a href='https://github.com/ja5046/web-production-2'>GitHub</a><br><a href='https://ja5046.github.io/web-production-2/week1/'>Page</a></td><td>Jason Wong</td><td><a href='https://github.com/ShadowViper/ShadowViper.github.io/tree/main/medp331'>GitHub</a><br><a href='https://shadowviper.github.io/medp331/class_1/index.html'>Page</a></td></tr>
-<tr><td>Neil Alcaraz</td><td><a href='https://github.com/neilalcaraz/web-production-2-main'>GitHub</a><br>Page</td><td>Derek Chong</td><td><a href='https://github.com/derekc97/webproduction2'>GitHub</a><br>Page</td></tr>
+<tr><td>JP Perez</td><td><a href='https://github.com/jpaulp22/MEDP331'>GitHub</a><br><a href='https://jpaulp22.github.io/MEDP331/'>Page</a></td><td>Yoselin Castelan Ramirez</td><td><a href='https://github.com/yoselinram97/web-production-2'>GitHub</a><br><a href='https://yoselinram97.github.io/web-production-2/'>Page</a></td></tr> <tr><td>Justin Alpizar</td><td><a href='https://github.com/ja5046/web-production-2'>GitHub</a><br><a href='https://ja5046.github.io/web-production-2/week1/'>Page</a></td><td>Jason Wong</td><td><a href='https://github.com/ShadowViper/ShadowViper.github.io/tree/main/medp331'>GitHub</a><br><a href='https://shadowviper.github.io/medp331/class_1/index.html'>Page</a></td></tr> <tr><td>Neil Alcaraz</td><td><a href='https://github.com/neilalcaraz/web-production-2-main'>GitHub</a><br>Page</td><td>Derek Chong</td><td><a href='https://github.com/derekc97/webproduction2'>GitHub</a><br><a href='https://derekc97.github.io/webproduction2/week4/index.html'>Page</a></td></tr>
 <tr><td>Marianny Pantophlet</td><td><a href='https://github.com/macymeca12/web-production-2'>GitHub</a><br><a href='https://macymeca12.github.io/web-production-2/'>Page</a></td></tr>
 </table>
 
 
+## Syllabus
+
+This schedule is subject to change. Please check your e-mail and this course page regularly for the most up-to-date information.
 
 
 
@@ -57,17 +62,18 @@ This schedule is subject to change. Please check your e-mail and this course pag
 ### [Class 5: Javascript Review 3.0](week5/) - 9/30
 - [Reading & Assignment](week5/assignment.md) - Due Wednesday, October 6 at 8pm
 
-### Class 6: Interactive shorthand: introduction to jQuery - 10/7
+### Class 6: jQuery & AJAX Basics - 10/7
+- **Midterm Introduced**
 
-### Class 7: jQuery and AJAX - 10/14
-- **Midterm Assigned**
+### Class 7: Advanced jQuery and AJAX - 10/14
 
-### Class 8: Intro to Node.js - 10/21
+### Class 8: Intro to Node.js // Midterm Work Session - 10/21
 
 ### Class 9: Midterm Crit, Debugging - 10/28
 - **Midterm Due**
 
 ### Class 10: Node and Templating - 11/4
+- **Final introduced**
 
 ### Class 11: Get/Post, Talking to The Frontend - 11/11
 
@@ -76,7 +82,6 @@ This schedule is subject to change. Please check your e-mail and this course pag
 ## NO CLASS 11/24 - Thanksgiving
 
 ### Class 13: Putting It All Together - 12/2
-- **Final assigned**
 
 ### Class 14: Intro to React/Work Session - 12/9
 
