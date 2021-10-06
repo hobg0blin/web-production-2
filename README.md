@@ -62,8 +62,9 @@ This schedule is subject to change. Please check your e-mail and this course pag
 ### [Class 5: Javascript Review 3.0](week5/) - 9/30
 - [Reading & Assignment](week5/assignment.md) - Due Wednesday, October 6 at 8pm
 
-### Class 6: jQuery & AJAX Basics - 10/7
+### [Class 6: jQuery & AJAX Basics](week6/) - 10/7
 - **Midterm Introduced**
+- Reading & Assignment - Due Wednesday, October 13 at 8pm
 
 ### Class 7: Advanced jQuery and AJAX - 10/14
 
@@ -73,11 +74,11 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - **Midterm Due**
 
 ### Class 10: Node and Templating - 11/4
-- **Final introduced**
 
 ### Class 11: Get/Post, Talking to The Frontend - 11/11
 
 ### Class 12: Databases! Intro to MongoDB - 11/17
+- **Final introduced**
 
 ## NO CLASS 11/24 - Thanksgiving
 

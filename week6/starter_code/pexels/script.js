@@ -1,5 +1,5 @@
 //onload function
-let apiKey = 'your key here'
+let apiKey = '563492ad6f9170000100000121cc89f40b93444fa806b47e59076bc7'
 $(function() {
   $("#img-search").click(function() {
     let searchTerm = $("#search-term").val()
@@ -10,8 +10,10 @@ $(function() {
 
         // we have to use an AJAX request here because we're using an API key
       $.ajax({
-
+        url: `https://api.pexels.com/v1/search?query=${searchTerm}`,
       }).done(function(data) {
+
+        console.log('data: ', data)
 
       }).fail(function() {
         //we can add a "fail" function to our AJAX request to do something if it fails

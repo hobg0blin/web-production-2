@@ -52,7 +52,7 @@ Another API with a number of endpoints that would allow you to search a show, th
 
 #### [Open Disease API](https://disease.sh/)
 
-A lot less fun than some of the others, but you could use this to display an educational dashboard for COVID data.
+An API tracking COVID data. This is less fun than some of the others, but you could use this for a lot of important purposes. You could build your own [Covid-19 Tracker](https://viruscovid.tech/), or look for inspiration from other projects using this API [here](https://github.com/disease-sh/awesome-novelcovid)
 
 #### [balldontlie.io](https://www.balldontlie.io)
 
@@ -118,7 +118,7 @@ Get images of dogs by breed, sub-breed, random dog images - the world of dogs is
 
 Search all the art in the Art Institute of Chicago. Make an art library, recommender, or a bizarre collage.
 
-Unfortunately, if you want to show images from this API, you have to go through a secondary process using the data from your request, documented [here](`https://api.artic.edu/api/v1/artworks/search?q=cats`).
+Unfortunately, if you want to show images from this API, you have to go through a secondary process using the data from your request, documented [here](https://api.artic.edu/docs/#iiif-image-api).
 
 
 #### Some fun APIs that you have to sign up for and use keys (this is a bit more annoying, and if you post your API key on GitHub, chances are someone will steal it and get you locked out of your account)
