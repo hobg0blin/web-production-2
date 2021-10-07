@@ -37,6 +37,7 @@
 
 - This is the first step in the [midterm!](midterm.md)
 - [Some APIs to choose from](apis.md)
+- [Sample requests for most of them](AJAX_exercise.md)
 - [Samples from class](https://drive.google.com/file/d/12P8bUZlKlimvJX0EN9iGEuezo31ROGV-/view?usp=sharing)
 - You’re welcome to use one of the APIs from the examples or the list above, or find your own.
 - Pick an API for your midterm and start getting familiar with it - read the docs, think about what you could build with it.

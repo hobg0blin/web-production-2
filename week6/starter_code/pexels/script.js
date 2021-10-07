@@ -1,5 +1,5 @@
 //onload function
-let apiKey = '563492ad6f9170000100000121cc89f40b93444fa806b47e59076bc7'
+let apiKey = 'your key here'
 $(function() {
   $("#img-search").click(function() {
     let searchTerm = $("#search-term").val()

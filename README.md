@@ -115,6 +115,8 @@ There is no required text for this course. Weekly readings will be posted on thi
 
 ## Evaluation
 
+Grades and feedback will be posted in BlackBoard. Work submitted after the beginning of class will be docked a letter grade.
+
 1) Class and lecture participation (20% of grade). By enrolling in this course and entering the classroom, each student
 makes the tacit commitment to participate in the class. Active class participation involves more
 than mere physical presence. Students are expected to be actively involved in the class. They
