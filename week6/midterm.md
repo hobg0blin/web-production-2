@@ -1,6 +1,8 @@
 ## Introducing the Midterm
 
-### [Some APIs to choose from](apis.md)
+### - [Some APIs to choose from](apis.md)
+### - [Sample Requests](AJAX_exercise.md)
+### - [Samples from class](https://drive.google.com/file/d/12P8bUZlKlimvJX0EN9iGEuezo31ROGV-/view?usp=sharing)
 
 ### Inspiration
 

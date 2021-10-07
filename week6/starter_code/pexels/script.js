@@ -11,8 +11,20 @@ $(function() {
         // we have to use an AJAX request here because we're using an API key
       $.ajax({
         url: `https://api.pexels.com/v1/search?query=${searchTerm}`,
+        type: 'GET',
+        dataType: 'json',
+        headers: {
+          "Authorization": apiKey
+        }
       }).done(function(data) {
-
+          let photos = data.photos
+          for (let photo of photos) {
+            let img = $("<img/>", {
+              src: photo.src.medium
+            })
+            img.attr('class', 'output-image')
+            img.appendTo('#images')
+          }
         console.log('data: ', data)
 
       }).fail(function() {

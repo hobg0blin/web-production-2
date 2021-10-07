@@ -13,7 +13,7 @@
 
 - [jQuery inspiration](https://www.awwwards.com/websites/jquery/)
 
-### Part 2: Intro to AJAX - [notes](AJAX.md)
+### Part 2: Intro to AJAX - [notes](AJAX.md), [tutorial code](https://drive.google.com/file/d/12P8bUZlKlimvJX0EN9iGEuezo31ROGV-/view?usp=sharing)
 - 1: Follow along in each folder - check out the linked API documentation as well
   - `kanye` - a simple AJAX request using [kanye.rest](https://kanye.rest/)
   - `pokemon` - using $.getJSON and user input with the [PokeApi](https://pokeapi.co/docs/v2#pokemon)

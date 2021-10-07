@@ -6,9 +6,12 @@ $(function() {
     $("#fail").text('')
 
       if (searchWord !== '' || searchLetter !== '') {
-        $.getJSON(`https://api.datamuse.com/words`, function(data) {
+        $.getJSON(`https://api.datamuse.com/words?ml=${searchWord}&sp=${searchLetter}*`, function(data) {
 
           console.log('data: ', data)
+          for (let obj of data) {
+            $("#similar-words").append("<li>" + obj.word + "</li>")
+          }
 
         }).fail(function() {
 

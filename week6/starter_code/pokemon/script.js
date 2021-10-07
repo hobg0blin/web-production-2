@@ -6,9 +6,9 @@ $(function() {
       if (pokemonName !== '') {
         $.getJSON(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`, function(data) {
           console.log('data: ', data)
-
+          $("#pokemon").attr({src: data.sprites.front_shiny})
         }).fail(function() {
-
+          console.log("that pokemon doesn't exist")
       })
     }
     //reset the input
