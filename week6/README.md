@@ -4,7 +4,7 @@
 
 ## Today’s Class - [starter code](https://drive.google.com/file/d/1lZ2iwINVhRHON7Yr1cdWqDIs261Vpg1o/view?usp=sharing)
 
-### Part 1: A basic introduction to jQuery - [notes](jquery.md)
+### Part 1: A basic introduction to jQuery - [notes](jquery.md), [tutorial code](https://drive.google.com/file/d/1tJUfZcFUkt-r6O-Y47HJw-xF5fy_LgkZ/view?usp=sharing)
 - 1: Open the `jquery_basics` folder in the [starter code](https://drive.google.com/file/d/1lZ2iwINVhRHON7Yr1cdWqDIs261Vpg1o/view?usp=sharing) and follow along in Atom and the browser.
 
 - 2: Talking about and playing with the [example code](https://drive.google.com/file/d/1rSvaNAPFmz5IOay5lTCQz_wVXcbn7N-A/view?usp=sharing) - jQuery implementations of last week’s assignment.
