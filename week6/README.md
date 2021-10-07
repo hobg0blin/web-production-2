@@ -29,6 +29,9 @@ we can get text values from some HTML input with `let input = $(“#my-input”)
 
 ### Part 3: Introducing The Midterm
 
+- [The Midterm](midterm.md)
+- [This week’s assignment](assignment.md)
+
 ### Inspiration
 
 - [Covid-19 Tracker](https://viruscovid.tech/) - using open disease API, more related projects [here](https://github.com/disease-sh/awesome-novelcovid)

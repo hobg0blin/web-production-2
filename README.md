@@ -63,8 +63,8 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - [Reading & Assignment](week5/assignment.md) - Due Wednesday, October 6 at 8pm
 
 ### [Class 6: jQuery & AJAX Basics](week6/) - 10/7
-- **Midterm Introduced**
-- Reading & Assignment - Due Wednesday, October 13 at 8pm
+- [**Midterm Introduced**](week6/midterm.md)
+- [Reading & Assignment](week6/assignment.md) - Due Wednesday, October 13 at 8pm
 
 ### Class 7: Advanced jQuery and AJAX - 10/14
 
