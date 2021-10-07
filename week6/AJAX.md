@@ -84,7 +84,7 @@ forms: []
 
 ### Queries
 
-Some APIs can take queries, which are additions to your request that can get you more specific data. This example uses the [DataMuse API](https://www.datamuse.com/api/), which has lots of options for searching words. In this case, we add to our root API request: `https:api.datamuse.com`, using a `?` to indicate our queries, then add two queries, joined by the `&` symbol: `ml=${searchWord}&sp=${searchLetter}`. This will make our request search for words with meanings similar to “dog” that start with the letter “b”.
+Some APIs can take queries, which are additions to your request that can get you more specific data. This example uses the [DataMuse API](https://www.datamuse.com/api/), which has lots of options for searching words. In this case, we add to our root API request: `https:api.datamuse.com`, using a `?` to indicate our queries, then add two queries, joined by the `&` symbol: `ml=${searchWord}&sp=${searchLetter}`. This will make our request search for words with meanings similar to “dog” that start with the letter “b”. More on parameters [here](https://rapidapi.com/blog/api-glossary/parameters/query/)
 
 ```
 let searchWord = ‘dog’

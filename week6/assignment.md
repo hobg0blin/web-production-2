@@ -31,19 +31,27 @@
 - [jQuery css()](https://www.w3schools.com/jquery/jquery_css.asp)
 #### AJAX
 - [Beginning jQuery - jQuery and AJAX](https://drive.google.com/file/d/10zPmSaGSsw_ODXEc2dqmCBdQ64FqQFvb/view?usp=sharing)
+- [What Are Query Parameters?](https://rapidapi.com/blog/api-glossary/parameters/query/)
+
+- jQuery [notes](jquery.md) and [tutorial code](https://drive.google.com/file/d/1tJUfZcFUkt-r6O-Y47HJw-xF5fy_LgkZ/view?usp=sharing) from this week
+- AJAX [notes](AJAX.md) and [tutorial code](https://drive.google.com/file/d/12P8bUZlKlimvJX0EN9iGEuezo31ROGV-/view?usp=sharing) from this week
 
 
-## Homework
+
+## Homework - Quick Prototype
 
 - This is the first step in the [midterm!](midterm.md)
 - [Some APIs to choose from](apis.md)
 - [Sample requests for most of them](AJAX_exercise.md)
 - [Samples from class](https://drive.google.com/file/d/12P8bUZlKlimvJX0EN9iGEuezo31ROGV-/view?usp=sharing)
-- You’re welcome to use one of the APIs from the examples or the list above, or find your own.
-- Pick an API for your midterm and start getting familiar with it - read the docs, think about what you could build with it.
-- If you’re not using one of the APIs from the examples, try making call to the API with the [sample AJAX request](https://drive.google.com/file/d/1U-SWOjupG3vuycC2OOKLKnjlW32-Ff04/view?usp=sharing), log the data in the console, and display data from it on the page using jQuery.
+- Pick an API for your midterm - you’re welcome to use one of the APIs from the examples (except the Kanye API) or the list above, or research your own.
+- Once you’ve picked an API, start getting familiar with it - read the docs, think about what you could build with it.
+- If you’re not using one of the APIs from the examples, try making a call to the API with the [sample AJAX request](https://drive.google.com/file/d/1U-SWOjupG3vuycC2OOKLKnjlW32-Ff04/view?usp=sharing), log the data in the console, and display data from it on the page using JavaScript/jQuery (or p5, if you’re feeling adventurous - some resources for working with AJAX & JSON in p5 are listed above).
 - If you use one of the APIs from the examples, display something else from that API call (e.g. in the Pokemon example, add the Pokemon’s type to the page) or add more inputs/styles/whatever else you’d like to do.
 - If you’ve picked an API and are having trouble getting it to work, leave a comment with the error you’re having (or try a different API).
+- ### **Separately**: Once you’ve done some research and played with API calls, [email me](mailto:bb2357@hunter.cuny.edu) a short (no more than 300 word) proposal for your midterm.
+Include the API you’re planning to use, what your site will do, any challenges/issues you might face, and how you plan to get there. Come to class next week ready to discuss your proposal.
+
 
 #### Submission
 
@@ -53,6 +61,4 @@
 - Check and make sure it uploaded to your GitHub page - it should be at {your github username}.github.io/week5/
 - Submit the link [here](https://docs.google.com/forms/d/e/1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform?usp=sf_link)
 
-### **Separately**: Once you’ve done some research and played with API calls, [email me](mailto:bb2357@hunter.cuny.edu) a short (~300 word) proposal for your midterm.
-Include the API you’re planning to use, what your app will do, any challenges/issues you might face, and how you plan to get there. Come to class next week ready to discuss your proposal.
 

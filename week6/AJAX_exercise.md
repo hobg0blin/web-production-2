@@ -2,7 +2,7 @@
 
 - Using the [sample API request](https://drive.google.com/file/d/1U-SWOjupG3vuycC2OOKLKnjlW32-Ff04/view?usp=sharing), play around with some of the sample API requests below and see what you get in the console (you’ll have to click the button even if you’re not using the input).
 
-- Try adding something from your AJAX data to the HTML with jQuery - for starters, you could append something from the data using `$(“#output).append(“<div>” + data.key + “</div>”)`, or set its text using `$(“#output”).text(data.key)`
+- Try adding something from your AJAX data to the HTML with jQuery - for starters, you could append something from the data using `$(“#output”).append(“<div>” + data.key + “</div>”)`, or set its text using `$(“#output”).text(data.key)`
 
 - Try adding an input or inputs to an API that has query parameters - take the value from textInput and pass it to the query parameter using template strings, e.g. `?q=${textInput}`
 
@@ -38,7 +38,7 @@ Or search by ingredient (in this case chicken breast):
 `https://www.themealdb.com/api/json/v1/1/filter.php?i=chicken_breast`
 
 #### [myAnimeList API](https://jikan.docs.apiary.io/#introduction/) 
-A lot like the TV Maze API, but just for Anime and Manga! We’ll specifically use their [search endpoint], which has a number of potential query inputs that could be used with multiple inputs in the HTML - there are even ways to filter out NSFW content (if you use this for your midterm, please keep the classroom a hentai-free zone).
+A lot like the TV Maze API, but just for Anime and Manga! We’ll specifically use their [search endpoint](https://jikan.docs.apiary.io/#reference/0/search), which has a number of potential query inputs that could be used with multiple inputs in the HTML - there are even ways to filter out NSFW content (if you use this for your midterm, please keep the classroom a hentai-free zone).
 This is just searching for Gundam, but you could use the input to search for something else.
 
 `https://api.jikan.moe/v3/search/anime?q=Gundam`

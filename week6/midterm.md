@@ -17,7 +17,7 @@
 
 **Create an interactive webpage that displays data from an external API and allows the user to interact with it. You’ll make a 5-10 minute presentation of your project to the class on October 28. This will be 25% of your grade for the semester!**
 
-- You can pick an API from the list above, or research your own and use it (there are a few huge lists linked at the bottom to look through, or if you have a topic you’re interested in building a site for you can Google {topic} API and chances are it’ll be there.
+- You can pick an API from the list above, or research your own and use it (there are a few huge lists linked at the top to look through), or if you have a topic you’re interested in building a site for you can Google {topic} API and chances are it’ll be there.
 - Your API should return an object with multiple keys, or an array with multiple objects - sorry, no Kanye API for the midterm.
 - You can make a live request to the API (as in the Pokedex example), or download the JSON in advance (if that makes sense for your project) - more details on downloading JSON [here](local_json.md)
 - User interaction can mean a lot of things, and should depend on the API and the project:
