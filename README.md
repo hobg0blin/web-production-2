@@ -17,7 +17,8 @@ Web Production II builds upon the tools employed in Web Production I to begin de
 ## Useful Resources
 Sections of these are assigned readings, but the full texts may be useful to revisit.
 - [Learn JavaScript - Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
-- [Beginning jQuery](https://drive.google.com/file/d/1ZuiyknWkms7KNrmnyxBvld8i3aWnQYoj/view?usp=sharing)
+- [W3 Schools jQuery Tutorial](https://www.w3schools.com/jquery/jquery_get_started.asp)
+- [jQuery Fundamentals](http://jqfundamentals.com/)
 - [Web Development With Node & Express](https://drive.google.com/file/d/1ip-1kA9k3VzpIOL0gczB09umHAgw_r5a/view?usp=sharing)
 
 
