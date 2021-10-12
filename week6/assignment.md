@@ -49,7 +49,7 @@
 - If you’re not using one of the APIs from the examples, try making a call to the API with the [sample AJAX request](https://drive.google.com/file/d/1U-SWOjupG3vuycC2OOKLKnjlW32-Ff04/view?usp=sharing), log the data in the console, and display data from it on the page using JavaScript/jQuery (or p5, if you’re feeling adventurous - some resources for working with AJAX & JSON in p5 are listed above).
 - If you use one of the APIs from the examples, display something else from that API call (e.g. in the Pokemon example, add the Pokemon’s type to the page) or add more inputs/styles/whatever else you’d like to do.
 - If you’ve picked an API and are having trouble getting it to work, leave a comment with the error you’re having (or try a different API).
-- ### **Separately**: Once you’ve done some research and played with API calls, [email me](mailto:bb2357@hunter.cuny.edu) a short (no more than 300 word) proposal for your midterm.
+- ### **Separately**: Once you’ve done some research and played with API calls, [email me](mailto:bb3257@hunter.cuny.edu) a short (no more than 300 word) proposal for your midterm.
 Include the API you’re planning to use, what your site will do, any challenges/issues you might face, and how you plan to get there. Come to class next week ready to discuss your proposal.
 
 
