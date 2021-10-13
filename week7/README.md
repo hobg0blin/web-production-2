@@ -1,7 +1,7 @@
 ## Week 7: Midterm Discussion, Advanced AJAX & jQuery
 
 
-## If you’re having issues with jQuery & GitHub
+### If you’re having issues with jQuery & GitHub
 
 Make sure your jQuery script in your HTML is using https, like so:
 
@@ -17,12 +17,14 @@ GitHub requires HTTPS - if you’re curious why, more [here](https://www.cloudfl
 
 ### Examples
 
-jQuery Animations & AJAX:  
-- [TV Maze Slider]()
-- [TV Maze Slider Zip File](https://drive.google.com/file/d/1wbr-3GtMXN3rZFdI8KGEmwuJzPLBs9Kd/view?usp=sharing) - a slider using jQuery animations, event handlers, and the [TVMaze API](https://www.tvmaze.com/api)
-Multiple AJAX Requests:
+These are also in the example folder for this week’s GitHub.
 
-- [Blackjack Game Zip File](https://drive.google.com/file/d/10q9ENZQJo0NhihMCBIoGk5J7cV4VD0Q0/view?usp=sharing) - a simple 2-player blackjack game using the [Deck of Cards API](https://deckofcardsapi.com/)
+jQuery Animations & AJAX:  
+- [TV Maze Slider](https://brondle.github.io/web-production-2/week7/examples/tvmaze-slider/) - a slider using jQuery animations, event handlers, and the [TVMaze API](https://www.tvmaze.com/api)
+- [TV Maze Slider Zip File](https://drive.google.com/file/d/1wbr-3GtMXN3rZFdI8KGEmwuJzPLBs9Kd/view?usp=sharing) 
+Multiple AJAX Requests:
+- [Blackjack Game](https://brondle.github.io/web-production-2/week7/examples/deck_of_cards/) a simple 2-player blackjack game using the [Deck of Cards API](https://deckofcardsapi.com/)
+- [Blackjack Game Zip File](https://drive.google.com/file/d/10q9ENZQJo0NhihMCBIoGk5J7cV4VD0Q0/view?usp=sharing) 
 
 
 
@@ -98,8 +100,13 @@ Next week we’ll spend the first part of the class setting up your servers for 
 - [jQuery fundamentals](http://jqfundamentals.com/)
 
 ### Inspiration
+#### Dealing with collections of objects
 - [Object collections - ways to display groups of things](https://www.are.na/agnes-cameron/web-object-collections)
+#### Mouse movement
+- [Other Office](https://otheroffice.net/)
+- [Eel Slap](http://eelslap.com/)
 - [Websites that use cursor position](https://www.are.na/agnes-cameron/web-sites-that-use-cursor-position)
+#### Keypress, complex animations
 - [BrowserQuest](https://browserquest.herokuapp.com/) - MMO built with jQuery
 - [OpHog](https://ophog.bot.land/) - Tower Defense game built with jQuery
 - [CSS Grid Garden](https://cssgridgarden.com/) - a game that teaches you CSS, built using jQuery

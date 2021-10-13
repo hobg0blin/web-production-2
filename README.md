@@ -68,8 +68,11 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - [Reading & Assignment](week6/assignment.md) - Due Wednesday, October 13 at 8pm
 
 ### Class 7: Advanced jQuery and AJAX - 10/14
+- No homework this week, catch up on any homework you’ve missed and work on your [midterm](week6/midterm.md)
+- [Resources & Inspiration For This week](week7/assignment.md)
+- Come prepared to discuss your midterm one-on-one with me next week.
 
-### Class 8: Intro to Node.js // Midterm Work Session - 10/21
+### Class 8: Intro to Node.js // Midterm One-on-Ones & Work Session - 10/21
 
 ### Class 9: Midterm Crit, Debugging - 10/28
 - **Midterm Due**
