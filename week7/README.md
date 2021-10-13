@@ -21,9 +21,10 @@ These are also in the example folder for this week’s GitHub.
 
 jQuery Animations & AJAX:  
 - [TV Maze Slider](https://brondle.github.io/web-production-2/week7/examples/tvmaze-slider/) - a slider using jQuery animations, event handlers, and the [TVMaze API](https://www.tvmaze.com/api)
-- [TV Maze Slider Zip File](https://drive.google.com/file/d/1wbr-3GtMXN3rZFdI8KGEmwuJzPLBs9Kd/view?usp=sharing) 
+- [TV Maze Slider Zip File](https://drive.google.com/file/d/1wbr-3GtMXN3rZFdI8KGEmwuJzPLBs9Kd/view?usp=sharing)  
+
 Multiple AJAX Requests:
-- [Blackjack Game](https://brondle.github.io/web-production-2/week7/examples/deck_of_cards/) a simple 2-player blackjack game using the [Deck of Cards API](https://deckofcardsapi.com/)
+- [Blackjack Game](https://brondle.github.io/web-production-2/week7/examples/deck_of_cards/) - a simple 2-player blackjack game using the [Deck of Cards API](https://deckofcardsapi.com/)
 - [Blackjack Game Zip File](https://drive.google.com/file/d/10q9ENZQJo0NhihMCBIoGk5J7cV4VD0Q0/view?usp=sharing) 
 
 
@@ -66,16 +67,16 @@ Again, this is some more advanced AJAX that you don’t have to (or may not need
 
 ### Next Week
 
-Next week we’ll spend the first part of the class setting up your servers for the second half of the semester, and the second part of the class in a midterm work session/taking turns meeting with me one-on-one to discuss your midterm. Come prepared to discuss your progress and any issues you’re having with the midterm with me.
+Next week we’ll spend the first part of the class setting up your servers for the second half of the semester, and the second part of the class in a midterm group work session/taking turns meeting with me one-on-one to discuss your midterm. Come prepared to discuss your progress and any issues you’re having with the midterm with me.
 
 
 ### No homework this week - catch up on homework you’ve missed and work on your midterm.
 
 ### Reference
 - [Advanced AJAX Notes](advanced_ajax.md)
-- [Advanced AJAX Tutorial Code]()
+- Advanced AJAX Tutorial Code
 - [Advanced jQuery Notes](advanced_jquery.md)
-- [Advanced jQuery Tutorial Code]()
+- Advanced jQuery Tutorial Code
 - [jQuery Events](https://www.w3schools.com/jquery/jquery_events.asp)
 - [jQuery Effects](https://www.w3schools.com/jquery/jquery_hide_show.asp) - read through “jQuery Callbacks”
 - [Callbacks Explained](https://javascript.info/callbacks)
