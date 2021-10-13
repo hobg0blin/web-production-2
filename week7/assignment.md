@@ -1,15 +1,15 @@
 ### Next Week
 
-Next week we’ll spend the first part of the class setting up your servers for the second half of the semester, and the second part of the class in a midterm work session/taking turns meeting with me one-on-one to discuss your midterm. Come prepared to discuss your progress and any issues you’re having with the midterm with me.
+Next week we’ll spend the first part of the class setting up your servers for the second half of the semester, and the second part of the class in a group midterm work session/taking turns meeting with me one-on-one to discuss your midterm. Come prepared to discuss your progress and any issues you’re having with the midterm with me.
 
 
-### No homework this week - catch up on homework you’ve missed and work on your midterm.
+### No homework this week - catch up on homework you’ve missed and work on your midterm - remember, this is 25% of your grade!
 
 ### Reference
 - [Advanced AJAX Notes](advanced_ajax.md)
-- [Advanced AJAX Tutorial Code]()
+- Advanced AJAX Tutorial Code
 - [Advanced jQuery Notes](advanced_jquery.md)
-- [Advanced jQuery Tutorial Code]()
+- Advanced jQuery Tutorial Code
 - [jQuery Events](https://www.w3schools.com/jquery/jquery_events.asp)
 - [jQuery Effects](https://www.w3schools.com/jquery/jquery_hide_show.asp) - read through “jQuery Callbacks”
 - [Callbacks Explained](https://javascript.info/callbacks)
@@ -39,9 +39,14 @@ Next week we’ll spend the first part of the class setting up your servers for 
 #### Mouse movement
 - [Other Office](https://otheroffice.net/)
 - [Eel Slap](http://eelslap.com/)
+- [Yi Zheng Portfolio](https://www.yiii.info/)
 - [Websites that use cursor position](https://www.are.na/agnes-cameron/web-sites-that-use-cursor-position)
 #### Keypress, complex animations
 - [BrowserQuest](https://browserquest.herokuapp.com/) - MMO built with jQuery
 - [OpHog](https://ophog.bot.land/) - Tower Defense game built with jQuery
 - [CSS Grid Garden](https://cssgridgarden.com/) - a game that teaches you CSS, built using jQuery
 - [Open Source HTML5 & JavaScript Games](https://www.edopedia.com/blog/open-source-html5-and-javascript-games/)
+#### Animations & General jQuery Inspiration
+- [Bahama Buck’s](https://bahamabucks.com/)
+- [Jaycie Mota Portfolio](https://byjayciemota.com/)
+- [Awwwards for jQuery](https://www.awwwards.com/websites/jquery/)
