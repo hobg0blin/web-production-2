@@ -1,0 +1,40 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main>
+      <section> <h2>Simple Blackjack Example</h2></section>
+      <button id="create-deck">Start A New Game</button>
+      <div class="game">
+        <div class="shuffle">
+      <button id="shuffle">Shuffle</button>
+      <div id="shuffle-result"></div>
+      </div>
+
+        <p id="cards-left"></p>
+        <div id="p1">
+        <div class="cards" id="p1-cards">
+        </div>
+        <button id="p1-draw">Player 1 Draw A Card</button><button id="p1-show">Show/Hide My Cards</button>
+
+      <p id="p1-result"></p>
+        </div>
+        <div id="p2">
+        <div class="cards" id="p2-cards">
+        </div>
+        <button id="p2-draw">Player 2 Draw A Card</button><button id="p2-show">Show/Hide My Cards</button>
+
+      <p id="p2-result"></p>
+
+        </div>
+      </div>
+      </div>
+      <p id="fail"></p>
+
+     </main>
+    <script src="script.js"></script>
+  </body>
+</html>
