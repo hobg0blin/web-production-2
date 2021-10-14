@@ -68,6 +68,7 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - [Reading & Assignment](week6/assignment.md) - Due Wednesday, October 13 at 8pm
 
 ### [Class 7: Advanced jQuery and AJAX](week7/) - 10/14
+- [Twitch Recording](https://www.twitch.tv/videos/1176486977)
 - No homework this week, catch up on any homework you’ve missed and work on your [midterm](week6/midterm.md) - remember, this is 25% of your grade!
 - [Resources & inspiration for this week](week7/assignment.md) - tons of resources for reviewing JavaScript & jQuery, plus potential inspiration or examples to use in your own project.
 - Come prepared to discuss your midterm one-on-one with me next week.

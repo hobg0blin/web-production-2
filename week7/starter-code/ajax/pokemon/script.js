@@ -20,6 +20,7 @@ function getPokemon(pokemonName) {
       $("#type").append(`<li class="capitalize">${object.type.name}</li>`)
     }
     $("#pokemon").show()
+    getCharacteristics(data.id)
   }).fail(function() {
     console.log("We couldn't find that pokemon")
   })
@@ -28,8 +29,12 @@ function getPokemon(pokemonName) {
 function getCharacteristics(pokemonId) {
   $.getJSON(`https://pokeapi.co/api/v2/characteristic/${pokemonId}`, function(data) {
     console.log('data: ', data)
+    for (let description of data.descriptions) {
+      if (description.language.name == 'es') {
+        $("#characteristics").append(description.description)
+      }
+    }
   }).fail(function() {
     console.log("We couldn't find that pokemon's characteristics.")
   })
 }
-

@@ -48,7 +48,7 @@ This is all more advanced jQuery that you might want to (but don’t have to) us
 - #### [Notes](advanced_jquery.md)
 
 
-## 2. Advanced AJAX - Tutorial Code
+## 2. Advanced AJAX - [Tutorial Code](https://drive.google.com/file/d/1wbr-3GtMXN3rZFdI8KGEmwuJzPLBs9Kd/view?usp=sharing)
 
 Again, this is some more advanced AJAX that you don’t have to (or may not need to) use on the midterm, but is good to understand.
 
@@ -75,7 +75,7 @@ Next week we’ll spend the first part of the class setting up your servers for 
 
 ### Reference
 - [Advanced AJAX Notes](advanced_ajax.md)
-- Advanced AJAX Tutorial Code
+- [Advanced AJAX Tutorial Code](https://drive.google.com/file/d/1wbr-3GtMXN3rZFdI8KGEmwuJzPLBs9Kd/view?usp=sharing)
 - [Advanced jQuery Notes](advanced_jquery.md)
 - [Advanced jQuery Tutorial Code](https://drive.google.com/file/d/1bWAbonfRTuLWfeHcauUX0CM5KBwiT8ue/view?usp=sharing)
 - [jQuery Events](https://www.w3schools.com/jquery/jquery_events.asp)
