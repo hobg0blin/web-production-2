@@ -33,7 +33,7 @@ Multiple AJAX Requests:
 
 
 
-## 1: Advanced jQuery
+## 1: Advanced jQuery - [Tutorial Code](https://drive.google.com/file/d/1bWAbonfRTuLWfeHcauUX0CM5KBwiT8ue/view?usp=sharing)
 
 This is all more advanced jQuery that you might want to (but don’t have to) use in the midterm.
 
@@ -48,7 +48,7 @@ This is all more advanced jQuery that you might want to (but don’t have to) us
 - #### [Notes](advanced_jquery.md)
 
 
-## 2. Advanced AJAX
+## 2. Advanced AJAX - Tutorial Code
 
 Again, this is some more advanced AJAX that you don’t have to (or may not need to) use on the midterm, but is good to understand.
 
@@ -77,7 +77,7 @@ Next week we’ll spend the first part of the class setting up your servers for 
 - [Advanced AJAX Notes](advanced_ajax.md)
 - Advanced AJAX Tutorial Code
 - [Advanced jQuery Notes](advanced_jquery.md)
-- Advanced jQuery Tutorial Code
+- [Advanced jQuery Tutorial Code](https://drive.google.com/file/d/1bWAbonfRTuLWfeHcauUX0CM5KBwiT8ue/view?usp=sharing)
 - [jQuery Events](https://www.w3schools.com/jquery/jquery_events.asp)
 - [jQuery Effects](https://www.w3schools.com/jquery/jquery_hide_show.asp) - read through “jQuery Callbacks”
 - [Callbacks Explained](https://javascript.info/callbacks)

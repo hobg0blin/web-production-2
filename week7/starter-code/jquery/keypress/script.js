@@ -5,8 +5,8 @@ $(function() {
 
 
   // detecting keypress events
-
   let pokemonImg = $("#pokemon")
+  getPokemon(pokemonImg, 'charizard')
   $(document).keypress(function(event)
   {
     key = String.fromCharCode(event.which)
@@ -16,7 +16,23 @@ $(function() {
         key >= '0' && key <= '9')
     {
       console.log('key: ', key)
+      $("#key-result").html('You pressed: '+ key)
       event.preventDefault()
+    }
+
+    switch(key) {
+      case 'w':
+        pokemonImg.css({'top': '-=5'})
+        break;
+      case 'a':
+        pokemonImg.css({'left': '-=5'})
+        break;
+      case 's':
+        pokemonImg.css({'top': '+=5'})
+        break;
+      case 'd':
+        pokemonImg.css({'left': '+=5'})
+        break;
     }
   })
 })
@@ -28,4 +44,3 @@ function getPokemon(element, pokemonName) {
       $("#pokemon").attr({src: data.sprites.front_default})
     })
   }
-

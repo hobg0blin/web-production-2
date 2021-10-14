@@ -9,7 +9,7 @@ Next week we’ll spend the first part of the class setting up your servers for 
 - [Advanced AJAX Notes](advanced_ajax.md)
 - Advanced AJAX Tutorial Code
 - [Advanced jQuery Notes](advanced_jquery.md)
-- Advanced jQuery Tutorial Code
+- [Advanced jQuery Tutorial Code](https://drive.google.com/file/d/1bWAbonfRTuLWfeHcauUX0CM5KBwiT8ue/view?usp=sharing)
 - [jQuery Events](https://www.w3schools.com/jquery/jquery_events.asp)
 - [jQuery Effects](https://www.w3schools.com/jquery/jquery_hide_show.asp) - read through “jQuery Callbacks”
 - [Callbacks Explained](https://javascript.info/callbacks)
