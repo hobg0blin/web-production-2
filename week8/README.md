@@ -13,45 +13,57 @@ These instructions are mostly geared towards Macs or Linux systems, but I’ve i
 
 **On Mac**
 
-Open the terminal. 
+1. Open the terminal. 
 
-On a Mac, hit CMD + Space and search `terminal`, then hit enter to open it. You should see a window like this (your colors and settings may be somewhat different):
+    - On a Mac, hit CMD + Space and search `terminal`, then hit enter to open it. You should see a window like this (your colors and settings may be somewhat different):
+<p align="center">
+<img  style="display:block;margin: 0 auto" width="500px" src="img/terminal.png" />
+</p>
 
-<img width="400px" src="img/terminal.png" />
+2. Make sure you have git installed: run `git --version` in the terminal, and if it’s not installed, you should get a prompt to install it.
 
-Make sure you have git installed: run `git --version` in the terminal, and if it’s not installed, you should get a prompt to install it.
+    - If it’s installed you should see a version number like this:
 
-If it’s installed you should see a version number like this:
+<p align="center">
+<img  style="display:block;margin: 0 auto" width="400px" src="img/git_version_mac.png" />
+</p>
 
-<img width="400px" src="img/git_version_mac.png" />
+3. [Download Node.js and NPM](https://nodejs.org/en/).
 
-[Download Node.js and NPM](https://nodejs.org/en/).
-
-Download the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install): you can just enter `brew tap heroku/brew && brew install heroku` in the Terminal.
+4. Download the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install): you can just enter `brew tap heroku/brew && brew install heroku` in the Terminal.
 
 
-Go to [Heroku](https://www.heroku.com/), hit "Sign up", and go through the process.
+5. Go to [Heroku](https://www.heroku.com/), hit "Sign up", and go through the process.
 
 
 **On Windows**
 
-On Windows, hit the windows button and search for Command Prompt. Open it, and you should see a window like this.
+1. Open Command Prompt.
 
-<img width="400px" src="img/terminal.png" />
+    - Hit the windows button and search for Command Prompt. Open it, and you should see a window like this.
 
-On Windows, type `git version` in the terminal - it should give you a version number. If It’s not installed, you can download it [here](https://gitforwindows.org/)
+<p align="center">
+<img style="display:block;margin: 0 auto" width="500px" src="img/terminal.png" />
+</p>
+
+2.  Make sure Git is installed.
+    - Type `git version` in the terminal.
+It should give you a version number like the one below. If It’s not installed, you can download it [here](https://gitforwindows.org/)
 
 
-<img width="400px" src="img/git_version_windows.png" />
+<p align="center">
+<img  style="display:block;margin: 0 auto" width="400px" src="img/git_version_windows.png" />
+</p>
 
 
-[Download Node.js and NPM](https://nodejs.org/en/).
+3. [Download Node.js and NPM](https://nodejs.org/en/).
 
-Use the “Recommended For Most Users” version and follow the instructions - check the “automatically install the necessary tools” box when it pops up. After this, you should see a Powershell window pop up - hit any key to continue when it pops up and let it keep running until it’s done.
+    - Use the “Recommended For Most Users” version and follow the instructions - check the “automatically install the necessary tools” box when it pops up. After this, you should see a Powershell window pop up - hit any key to continue when it pops up and let it keep running until it’s done.
 
-Download the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) -  use the installer at this link. If you get a warning saying “Windows protected your PC”, hit “more info”, verify “salesforce.com, inc” as the publisher, then click the “Run Anyway” button.
+4. Download the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) 
+    - Use the installer at the link above. If you get a warning saying “Windows protected your PC”, hit “more info”, verify “salesforce.com, inc” as the publisher, then click the “Run Anyway” button.
 
-Go to [Heroku](https://www.heroku.com/), hit "Sign up", and go through the process.
+5. Go to [Heroku](https://www.heroku.com/), hit "Sign up", and go through the process.
 
 Give me a thumbs up when you’re finished installing everything, and I’ll do the next steps along with you.
 
@@ -69,60 +81,68 @@ We’ll be using the terminal more often from here on out, so some basic command
 Some of these are slightly different on Windows, because Microsoft is annoying - you can see more about the command prompt [here](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/).
 
 
+1. Download the [starter code](https://drive.google.com/file/d/11HWLLPDbLovqQc8vaj3308K0nc911GtC/view?usp=sharing) and put it in your folder of choice 
+    - Usually this should be Documents, but if you have a different place you’d like to keep it feel free to put it there.
+    - If you want to do this in the terminal, you can just move it there using `mv` - on Mac, this is:
+    - `mv ~/Downloads/web-production-2-server Documents/`
 
-Download the [starter code](https://drive.google.com/file/d/11HWLLPDbLovqQc8vaj3308K0nc911GtC/view?usp=sharing) and put it in your folder of choice - usually this should be Documents, but if you have a different place you’d like to keep it feel free to put it there.
+2. Navigate to the directory in the Terminal
 
-If you want to do this in the terminal, you can just move it there using `mv` - on Mac, this is:
+    - In the terminal, enter `cd Documents/web-production-2-server` (or replace documents with whatever folder you put the starter code in)
 
-`mv ~/Downloads/web-production-2-server Documents/`
+    - To make sure you’re in the right folder (you should get an error message if you try to go to one that doesn’t exist, but to double check):
 
-In the terminal, enter:
+      **Mac**: enter `ls`
 
-`cd Documents/web-production-2-server` (or whatever folder you put the starter code in)
+      **Windows**: enter `dir`
 
-To make sure you’re in the right folder (you should get an error message if you try to go to one that doesn’t exist, but to double check):
-
-**Mac**: enter `ls`
-
-**Windows**: enter `dir`
-
-You should see an output like this - these commands list all the files in the folder you’re in:
+      You should see an output like this - these commands list all the files in the folder you’re in:
 
 
-<img width="400px" src="img/list_files.png" />
+<p align="center">
+<img width="400px" style="display:block;margin: 0 auto" src="img/list_files.png" />
+</p>
 
+3. Install Our Packages
+    - Make sure you’re in the starter code folder in the terminal.
+    - Run `npm install`. 
+        Since I’ve provided a `package.json` file, it knows to install all the packages in there already. We're installing all the packages we'll need to get started:
 
-Once you’re in the starter code folder in the terminal, run `npm install`. Since I’ve provided a `package.json` file, it knows to install all the packages in there already. We're installing all the packages we'll need to get started:
+      **Express** : Allows us to run a simple server.
 
-**Express** : Allows us to run a simple server.
-
-**Handlebars**: Allows our server to serve our files easily, and use templates to make repeatable templates for our pages.
+      **Handlebars**: Allows our server to serve our files easily, and use templates to make repeatable templates for our pages.
 
 
 ### Running The Server
 
-Once our server is set up, all we have to do is enter:
+Once our server is set up, all we have to do in the terminal is enter:
 
 `node app.js`
 
 And our server will be running locally - if you go to `localhost:3000` in the browser, you should see this:
 
 
+<p align="center">
 <img width="500px" src="img/sample_app.png" />
+</p>
 
 ### Adding to Git 
 
-Open the app’s folder in Atom.
+1. Open the app’s folder in Atom.
 
-Go to the Git pane in Atom and hit "Create Repository".
+2. Go to the Git pane in Atom and hit "Create Repository".
 
-<img width="500px" src="img/create_repository.png" />
+<img width="400px" src="img/create_repository.png" />
 
-You should be familiar with the process of adding and committing your changes by now, but if you've forgotten, hit "Stage All", add a commit message, and hit "Create detached commit"
+3. Stage and commit
 
-<img width="600px" src="img/commit.png" />
+    - You should be familiar with the process of adding and committing your changes by now, but if you've forgotten, hit "Stage All", add a commit message, and hit "Create detached commit"
 
-Then go to the GitHub pane and hit "Publish on Github" - you can call it whatever you want, but this is where all your server code will live from now on.
+<img width="400px" src="img/commit.png" />
+
+4. Publish to a new GitHub repo
+
+    - Then go to the GitHub pane and hit "Publish on Github" - you can call it whatever you want, but this is where all your server code will live from now on.
 
 ## Setting Up Heroku
 
@@ -130,15 +150,23 @@ Then go to the GitHub pane and hit "Publish on Github" - you can call it whateve
 Try following the rest of the instructions in the terminal, but if you’re having trouble there are instructions for setting it up using the browser below.
 
 
-Once the Heroku CLI has downloaded, in the terminal, enter `heroku login` and hit any key to go to the browser and log in. 
+1. Log in to Heroku
+    - Once the Heroku CLI has downloaded, in the terminal:
+    - Enter `heroku login`
+    - Hit any key to go to the browser and log in. 
 
-Then, back in the Terminal:
+2. Create a Heroku App
 
-Enter `heroku create {your-name}-web-production-2-server` - this creates a Heroku instance for your server.
+    - Back in the Terminal:
+    - Enter `heroku create {your-name}-web-production-2-server`
+        This creates a Heroku instance for your server.
 
-Enter `git push heroku main` (or `git push heroku master` if that’s the branch you’re on - you can check in the terminal by typing `git branch`) to push to Heroku - make sure you’ve added and committed to your repository already.
+3. Push your app to Heroku
+    - Enter `git push heroku main` (or `git push heroku master` if that’s the branch you’re on - you can check in the terminal by typing `git branch`) to push to Heroku - make sure you’ve added and committed to your repository already.
 
-Then enter `heroku open` to open the page in the browser.
+4. Open the App!
+
+    - Enter `heroku open` to open the page in the browser.
 
 If all went well, you should see your local site hosted on Heroku!
 
