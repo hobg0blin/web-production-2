@@ -2,6 +2,13 @@
 
 ## Getting Set Up With Node & Heroku
 
+These instructions are mostly geared towards Macs or Linux systems, but I’ve included some basic commands for using Windows since I know a number of you are on Windows computers. If you’re having trouble with anything on Windows, you can check out these references for using the command prompt:
+
+- [Beginner’s Guide To Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/)
+- [Windows Command Prompt Cheat Sheet](https://serverspace.us/support/help/windows-cmd-commands-cheat-sheet/)
+
+
+
 ### Downloads and Installs
 
 **On Mac**
