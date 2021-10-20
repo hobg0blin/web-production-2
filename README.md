@@ -73,7 +73,9 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - [Resources & inspiration for this week](week7/assignment.md) - tons of resources for reviewing JavaScript & jQuery, plus potential inspiration or examples to use in your own project.
 - Come prepared to discuss your midterm one-on-one with me next week.
 
-### Class 8: Intro to Node.js // Midterm One-on-Ones & Work Session - 10/21
+### [Class 8: Intro to Node.js // Midterm One-on-Ones & Work Session](week8/) - 10/21
+- [Midterm](week6/midterm.md) presentations are due next week! Submit your midterm [here](https://docs.google.com/forms/d/e/1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform?usp=sf_link), and if you’re using slides and won’t be bringing your own computer either send me a link to them or send them as an attachment.
+- If you want to get ahead on Node.js, check out the resources & inspiration for this week or take a look at [Web Development With Node & Express](https://drive.google.com/file/d/1ip-1kA9k3VzpIOL0gczB09umHAgw_r5a/view?usp=sharing)
 
 ### Class 9: Midterm Crit, Debugging - 10/28
 - **Midterm Due**

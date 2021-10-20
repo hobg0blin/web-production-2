@@ -48,7 +48,7 @@ These instructions are mostly geared towards Macs or Linux systems, but I’ve i
 
 2.  Make sure Git is installed.
     - Type `git version` in the terminal.
-It should give you a version number like the one below. If It’s not installed, you can download it [here](https://gitforwindows.org/)
+It should give you a version number like the one below. If It’s not installed, you can download it [here](https://gitforwindows.org/). Follow [these instructions](https://www.computerhope.com/issues/ch001927.htm) to get it installed properly.
 
 
 <p align="center">
