@@ -8,15 +8,15 @@
 
 Open the terminal. 
 
-On a Mac, hit CMD + Space and search `terminal`, then hit enter to open it. You should see a window like this:
+On a Mac, hit CMD + Space and search `terminal`, then hit enter to open it. You should see a window like this (your colors and settings may be somewhat different):
 
-<img width="600px" src="img/terminal.png" />
+<img width="400px" src="img/terminal.png" />
 
 Make sure you have git installed: run `git --version` in the terminal, and if it’s not installed, you should get a prompt to install it.
 
 If it’s installed you should see a version number like this:
 
-<img width="600px" src="img/git_version_mac.png" />
+<img width="400px" src="img/git_version_mac.png" />
 
 [Download Node.js and NPM](https://nodejs.org/en/).
 
@@ -30,12 +30,12 @@ Go to [Heroku](https://www.heroku.com/), hit "Sign up", and go through the proce
 
 On Windows, hit the windows button and search for Command Prompt. Open it, and you should see a window like this.
 
-<img width="600px" src="img/terminal.png" />
+<img width="400px" src="img/terminal.png" />
 
 On Windows, type `git version` in the terminal - it should give you a version number. If It’s not installed, you can download it [here](https://gitforwindows.org/)
 
 
-<img width="600px" src="img/git_version_windows.png" />
+<img width="400px" src="img/git_version_windows.png" />
 
 
 [Download Node.js and NPM](https://nodejs.org/en/).
@@ -82,7 +82,7 @@ To make sure you’re in the right folder (you should get an error message if yo
 You should see an output like this - these commands list all the files in the folder you’re in:
 
 
-<img width="500px" src="img/list_files.png" />
+<img width="400px" src="img/list_files.png" />
 
 
 Once you’re in the starter code folder in the terminal, run `npm install`. Since I’ve provided a `package.json` file, it knows to install all the packages in there already. We're installing all the packages we'll need to get started:
@@ -101,7 +101,7 @@ Once our server is set up, all we have to do is enter:
 And our server will be running locally - if you go to `localhost:3000` in the browser, you should see this:
 
 
-<img width="600px" src="img/sample_app.png" />
+<img width="500px" src="img/sample_app.png" />
 
 ### Adding to Git 
 
@@ -109,7 +109,7 @@ Open the app’s folder in Atom.
 
 Go to the Git pane in Atom and hit "Create Repository".
 
-<img width="600px" src="img/create_repository.png" />
+<img width="500px" src="img/create_repository.png" />
 
 You should be familiar with the process of adding and committing your changes by now, but if you've forgotten, hit "Stage All", add a commit message, and hit "Create detached commit"
 
@@ -138,21 +138,24 @@ If all went well, you should see your local site hosted on Heroku!
 
 ## In The Browser
 
-<img width="600px" src="img/create_heroku_app.png" />
+
+If you’re having lots of trouble with the terminal, you can also get this set up in the browser: go to your dashboard on heroku and  hit “New” to create a new app:
+
+<img width="500px" src="img/create_heroku_app.png" />
 
 call it `{your-name}-web-production-2-server` and hit "Create App" -
 
-<img width="600px" src="img/name_app.png">
+<img width="500px" src="img/name_app.png">
 
 Once it's created, go to the "Deploy" tab and hit "Connect to GitHub", then scroll down and hit the "Connect to Github" purple button:
 
-<img width="800px" src="img/connect_to_github.png">
+<img width="500px" src="img/connect_to_github.png">
 
-<img width="800px" src="img/connect_to_github_button.png">
+<img width="700px" src="img/connect_to_github_button.png">
 
 Hit "Authorize Heroku", then in "Connect to Github" enter the repository name:
 
-<img width="800px" src="img/add_repo_name.png"/>
+<img width="700px" src="img/add_repo_name.png"/>
 
 From here, it's probably easiest if you enable Automatic Deploys, which will update the app on Heroku every time you push to GitHub, but you can also scroll down to manually deploy:
 
