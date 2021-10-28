@@ -78,8 +78,9 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - [Midterm](week6/midterm.md) presentations are due next week! Submit your midterm [here](https://docs.google.com/forms/d/e/1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform?usp=sf_link), and if you’re using slides and won’t be bringing your own computer either send me a link to them or send them as an attachment.
 - If you want to get ahead on Node.js, check out the resources & inspiration for this week or take a look at [Web Development With Node & Express](https://drive.google.com/file/d/1ip-1kA9k3VzpIOL0gczB09umHAgw_r5a/view?usp=sharing)
 
-### Class 9: Midterm Crit, Debugging - 10/28
+### [Class 9: Midterm Crit, Debugging](week9/) - 10/28
 - **Midterm Due**
+- Celebrate! And if you missed last week, make sure to get set up with Node and Heroku before next week - [instructions are here](week8/).
 
 ### Class 10: Node and Templating - 11/4
 
