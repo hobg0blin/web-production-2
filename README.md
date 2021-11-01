@@ -9,6 +9,8 @@ Thursdays 10:10am - 1:00pm  - Hunter North Room 470
 
 **Homework Submissions**: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform)  
 
+**Twitch Streams/Recordings**: [Link](https://www.twitch.tv/hellagrapes)
+
 ## Course Description
 
 Web Production II builds upon the tools employed in Web Production I to begin developing dynamic websites and other net.art works. Advanced coding methods will be introduced in HTML5, JavaScript, JQuery, AJAX, node.js, MongoDB, and JSON. Students will develop multiple interactive web projects using a range of methods and tools.
