@@ -1,5 +1,7 @@
 ## Zoo Website
 
+A very professional zoo website.
+<img width="600px" src="img/lion.png" />
 - Your group has been tasked with prototyping a website for a local zoo. Let one person write the code at a time while others take turns giving input - you can swap out after 5 minutes or so.
 - In the starter code, `cd` into `exercise-2`, and run `npm install` and `node app.js` - it’ll be running in your browser at `localhost:3000`.
 - A list (`animalsList`) of all the animals in the zoo is already being displayed in `home.handlebars`.
