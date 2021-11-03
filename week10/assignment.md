@@ -28,7 +28,7 @@
 
 ### Option 1: Prototype portfolio site
 
-- Using the [starter code](https://drive.google.com/file/d/17iu29C0HHS05ZSJ_BelyLZ9SLEHM8RBx/view?usp=sharing), build a prototype of a portfolio site using Node and Handlebars - this is already set up for all the functionality, you just have to modify it to be about you!
+- Using the [assignment starter code](https://drive.google.com/file/d/17iu29C0HHS05ZSJ_BelyLZ9SLEHM8RBx/view?usp=sharing), build a prototype of a portfolio site using Node and Handlebars - this is already set up for all the functionality, you just have to modify it to be about you!
 - Modify the about and home pages to be about your own creative work, whether it’s in this class or in general.
 - Add at least one partial to `views/partials` and display it on multiple pages (this could be an image of you, or a link you want to reuse across pages)
 - In line 16 of app.js, modify the `ListOfWorks` to contain links, images, titles, and any other attributes you’d like to pass to a page that displays your portfolio. Add at least 3 objects to the array and least one new attribute to each object (like a description or a hashtag). This can just be your assignments for this class so far, or you can make it about any other projects you’d like to link to.
@@ -39,11 +39,11 @@
 
 ### Option 2: Multipage Story
 
-- Using the [starter code](https://drive.google.com/file/d/1089dew0OMGUwgSZvjq0X_yOzUfKIX80y/view?usp=sharing), build a multipage story using Node and Handlebars- this is already set up for all the functionality, you just have to modify it to be about you!
+- Using the [assignment starter code](https://drive.google.com/file/d/1089dew0OMGUwgSZvjq0X_yOzUfKIX80y/view?usp=sharing), build a multipage story using Node and Handlebars- this is already set up for all the functionality, you just have to modify it to be about you!
 - Modify the `about` and `home` pages to be about your story.
 - Add at least one partial to `views/partials` and display it on multiple pages (this could be an image of you, or a link you want to reuse across pages)
 - Modify the `moreInfo` variable in line 29 of `app.js` to be about your story, and check that it displays in the about page.
-- Using the `story` variable in line 38 of `app.js`, add at least four objects (or pages) to your story and one new attribute to each object- like adding a “title” or more text to the story. Make sure to display the new attribute in the `page` template.
+- Using the `story` variable in line 38 of `app.js`, add at least four objects to your story and one new attribute to each object- like adding a “title” or more text to the story. Make sure to display the new attribute in the `page` template.
 - Make sure to put any images in the `public/img` folder.
 - Try and see if you can create a “previous page” variable in the page route (at line 40) and link to it in the page template.
 - Feel free to add your own styles or frontend JavaScript in the `public/` folder, or build out the site more as you see fit!
