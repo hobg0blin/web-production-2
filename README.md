@@ -22,6 +22,7 @@ Sections of these are assigned readings, but the full texts may be useful to rev
 - [W3 Schools jQuery Tutorial](https://www.w3schools.com/jquery/jquery_get_started.asp)
 - [jQuery Fundamentals](http://jqfundamentals.com/)
 - [Web Development With Node & Express](https://drive.google.com/file/d/1ip-1kA9k3VzpIOL0gczB09umHAgw_r5a/view?usp=sharing)
+- [Learn Server-Side Programming - Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
 
 
@@ -84,7 +85,8 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - **Midterm Due**
 - Celebrate! And if you missed last week, make sure to get set up with Node and Heroku before next week - [instructions are here](week8/).
 
-### Class 10: Node and Templating - 11/4
+### [Class 10: Routing & Templating With Node](week10/) - 11/4
+- [Reading & Assignment](week10/assignment.md) due Wednesday 11/16 at 8pm
 
 ### Class 11: Get/Post, Talking to The Frontend - 11/11
 
