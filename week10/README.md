@@ -26,8 +26,8 @@
 - If you’re getting stuck or confused, revisit [week 8](../week8/) - there are tons of resources there.
 - [Server Basics Notes](notes-basic.md)
 - [Complex Server Notes](notes-server.md)
-- [Web Development With Node & Express](https://drive.google.com/file/d/1ip-1kA9k3VzpIOL0gczB09umHAgw_r5a/view?usp=sharing) - Ch. 3 (Saving Time With Express), Ch. 7 (Templating With Handlebars) - it’s still a useful reference, but some of the code in this book is a bit out of date, so when in doubt, stick with the code in the assignment or starter code over copying code directly from the book.
 - [Routing With Express](https://expressjs.com/en/guide/routing.html)
+- [Web Development With Node & Express](https://drive.google.com/file/d/1ip-1kA9k3VzpIOL0gczB09umHAgw_r5a/view?usp=sharing) - Ch. 3 (Saving Time With Express), Ch. 7 (Templating With Handlebars) - it’s still a useful reference, but some of the code in this book is a bit out of date, so when in doubt, stick with the code in the assignment or starter code over copying code directly from the book.
 
 ## Reference
 - [Bootstrap Documentation](https://getbootstrap.com/docs/3.4/css/#overview)
@@ -36,8 +36,10 @@
 - [Templating With Handlebars](https://css-tricks.com/lodge/learn-jquery/23-templating-handlebars/)
 - [What is NPM? NPM Tutorial for beginners](https://www.freecodecamp.org/news/what-is-npm-a-node-package-manager-tutorial-for-beginners/)
 - [Intro to Express & Node](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+- [Node.js Cheatsheet](https://www.codecademy.com/learn/bapi-learn-express/modules/introduction-to-node-js/cheatsheet)
 - [Give Me A Joke NPM Package](https://www.npmjs.com/package/give-me-a-joke)
 - [RandomColor NPM Package](https://www.npmjs.com/package/randomcolor)
+- [Node.js for beginners - freeCodeCamp](https://www.youtube.com/watch?v=RLtyhwFtXQA)
 
 ## Inspiration
 - [Isabel Moranta Portfolio](https://isabelmoranta.com/) - uses Node & Express
