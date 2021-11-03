@@ -1,5 +1,5 @@
 ## Reading
-- If you’re getting stuck or confused, revisit (week 8)[../week8/] - there are tons of resources there.
+- If you’re getting stuck or confused, revisit [week 8](../week8/) - there are tons of resources there. 
 - [Server Basics Notes](notes-basic.md)
 - [Complex Server Notes](notes-server.md)
 - [Web Development With Node & Express](https://drive.google.com/file/d/1ip-1kA9k3VzpIOL0gczB09umHAgw_r5a/view?usp=sharing) - Ch. 3 (Saving Time With Express), Ch. 7 (Templating With Handlebars) - it’s still a useful reference, but some of the code in this book is a bit out of date, so when in doubt, stick with the code in the assignment or starter code over copying code directly from the book.
