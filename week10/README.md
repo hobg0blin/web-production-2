@@ -15,7 +15,7 @@
 
 ### Routing and Templating With Node & Handlebars
 
-1. Basic Routing & Templating - [Notes](notes-basic.md)
+1. Basic Routing & Templating - [Notes](notes-basic.md), [Complete Simple Server Code](https://drive.google.com/file/d/1pBf8n40LiKMs4PUmOTA87xcJXltLVs9P/view?usp=sharing)
   - Follow along with the starter code
   - [Exercise](exercise-1.md)
 2. Sending Data From The Server - [Notes](notes-server.md)
