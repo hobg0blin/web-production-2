@@ -12,7 +12,7 @@ A very professional zoo website.
 
 - Display all the animals and the attributes on the homepage in your each loop, adding html around the attributes, like `<h4>{{this.name}}</h4>`.
 
-- Once that’s done, add the other animal attributes to the `animal.handlebars` template: this is already partially set up, and you should be able to see the individual animal routes by going to [localhost:3000/animal:0](localhost:3000/animal:0).
+- Once that’s done, add the other animal attributes to the `animal.handlebars` template: this is already partially set up, and you should be able to see the individual animal routes by going to [localhost:3000/animal/0](localhost:3000/animal:0).
 
 - Take a look at how the `/animal` route is working with request parameters - it’s already set up so you can see a basic page for each animal, and has a link to the next animal in the list.
 
