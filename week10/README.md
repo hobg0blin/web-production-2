@@ -65,7 +65,7 @@
 
 ### Option 2: Multipage Story 
 
-- Using the [assignment starter code](https://drive.google.com/file/d/1089dew0OMGUwgSZvjq0X_yOzUfKIX80y/view?usp=sharing), build a multipage story using Node and Handlebars- this is already set up for all the functionality, you just have to modify it to be about you!
+- Using the [assignment starter code](https://drive.google.com/file/d/1089dew0OMGUwgSZvjq0X_yOzUfKIX80y/view?usp=sharing), build a multipage story using Node and Handlebars- this is already set up for all the functionality, you just have to modify it to be your own story!
 - Modify the `about` and `home` pages to be about your story.
 - Add at least one partial to `views/partials` and display it on multiple pages (this could be an image of you, or a link you want to reuse across pages)
 - Modify the `moreInfo` variable in line 29 of `app.js` to be about your story, and check that it displays in the about page.
