@@ -89,7 +89,7 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - [Recording](https://www.twitch.tv/videos/1195748079)
 - [Reading & Assignment](week10/assignment.md) due Wednesday 11/16 at 8pm
 
-### Class 11: Get/Post, Talking to The Frontend - 11/11
+### Class 11: CANCELLED : ( - 11/11
 
 ### Class 12: Databases! Intro to MongoDB - 11/17
 - **Final introduced**
