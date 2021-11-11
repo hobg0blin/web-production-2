@@ -87,11 +87,11 @@ This schedule is subject to change. Please check your e-mail and this course pag
 
 ### [Class 10: Routing & Templating With Node](week10/) - 11/4
 - [Recording](https://www.twitch.tv/videos/1195748079)
-- [Reading & Assignment](week10/assignment.md) due Wednesday 11/16 at 8pm
+- [Reading & Assignment](week10/assignment.md) due **Tuesday** 11/16 at 8pm
 
 ### Class 11: CANCELLED : ( - 11/11
 
-### Class 12: Databases! Intro to MongoDB - 11/17
+### Class 12: Databases! Intro to MongoDB - 11/18
 - **Final introduced**
 
 ## NO CLASS 11/24 - Thanksgiving
