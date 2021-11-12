@@ -91,12 +91,12 @@ This schedule is subject to change. Please check your e-mail and this course pag
 
 ### Class 11: CANCELLED : ( - 11/11
 
-### Class 12: Databases! Intro to MongoDB - 11/18
+### Class 12: Get/Post, Internal & External APIs - 11/18
 - **Final introduced**
 
 ## NO CLASS 11/24 - Thanksgiving
 
-### Class 13: Putting It All Together - 12/2
+### Class 13: Intro to MongoDB - 12/2
 
 ### Class 14: Intro to React/Work Session - 12/9
 
