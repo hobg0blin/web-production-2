@@ -18,9 +18,7 @@ To following along, `cd` into `external-api` int he starter code and run `npm in
 
 2. Tutorial - fun with bots, server-side-scripting
 
-To follow along with part 1, `cd` into `twitter-bot-frontend` in the starter code and run `npm install` and `node app.js`
-
-To follow along with part 2, `cd` into `twitter-bot-server` in the starter code and run `npm install` and `node app.js`
+To follow along, `cd` into `twitter-bot-frontend` in the starter code and run `npm install` and `node app.js`
 
 3. [Exercise](exercise_2.md)
 
@@ -41,12 +39,17 @@ To follow along with part 2, `cd` into `twitter-bot-server` in the starter code 
 -[Build a simple To-Do list app with Node.js and MongoDB](https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-1-c645c7a27583)
 - [Video: how to create a TODO app with Node.js and Express.js](https://www.youtube.com/watch?v=meJf53tvsWw)
 
+### If you want to get ahead on databases/making a CRUD app:
+- We’ll be working with [turbo360](https://www.turbo360.co/) when we get back since it’s an easy way to get your database hosted online. Create an account with them and check out their [docs](https://docs.turbo360.co/) and [tutorials](https://www.turbo360.co/tutorials) - part 6 of this [Udemy course](https://www.udemy.com/course/portfolio-website-with-node-js-express/learn/lecture/16276404#overview) is helpful for setting up a database, although we won’t be using their routing setup in class.
+- [Make a Simple CRUD App with Node & MongoDB - Star Wars Quotes App](https://zellwk.com/blog/crud-express-mongodb/) - This is another way to get set up with MongoDB if you’d like to host on Heroku or are having trouble following the Turbo360 stuff
+
 ### Inspiration
 - [Your World of Text](https://www.yourworldoftext.com/)
 - [Everest Pipkin’s Twitter Bots](https://everest-pipkin.com/#projects/bots.html)
 - [What it Means to Be an ‘Experimental Computer Poet’](https://www.vice.com/en/article/8x8ppp/poetry-twitter-bots-best-twitter-bots-art-allison-parrish-everyword)
 - [Bots: a definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-s7738c8ab1ce)
 - [12 Weird, Excellent Twitter Bots](https://nymag.com/intelligencer/2015/11/12-weirdest-funniest-smartest-twitter-bots.html)
+- [Top 10 Discord BOts for Adding Fun To Your Server](https://droplr.com/how-to/productivity-tools/top-10-discord-game-bots-for-adding-fun-to-your-server/)
 
 ### Assignment
 
@@ -60,9 +63,9 @@ You’ve got two weeks, so you’ve got two things to do:
 - How you’ll integrate a node.js server
 - What different pages & functionality your final will have.
 
-There’s also the homework: 
+2. Assignment: 
 
-### Option 1: Your Very Own World Of Text
+### Option 1: Your Very Own World Of Text/CRUD App Prototype
 - Using the [starter code](https://drive.google.com/file/d/1CkitMaBhCfktgM0kX14DjhQLDl9aANH3/view?usp=sharing), create your own world of text/message board/social network/To Do list, collaborative poetry app, whatever you’d like it to be!
 - Modify the styling and code/templates to reflect what you’d like your project to be - if it’s a social network or message board, give it a name. If it’s a giant collaborative poem, change the title and form HTML to reflect that!
 - Add at least one new attribute to the form in `messages.handlebars`, make sure it gets added to the `messages` object in app.js, and display it in the handlebars template in `messages.handlebars`.
