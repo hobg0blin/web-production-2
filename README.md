@@ -91,8 +91,9 @@ This schedule is subject to change. Please check your e-mail and this course pag
 
 ### Class 11: CANCELLED : ( - 11/11
 
-### Class 12: Get/Post, Internal & External APIs - 11/18
-- **Final introduced**
+### [Class 12: Get/Post, Internal & External APIs](week12/) - 11/18
+- [**Final introduced**](week12/final.md)
+- [Reading, assignment, and final proposal](week12/assignment.md) - due Wednesday, 12/1 at 8pm
 
 ## NO CLASS 11/24 - Thanksgiving
 
