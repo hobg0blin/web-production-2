@@ -9,6 +9,8 @@ Thursdays 10:10am - 1:00pm  - Hunter North Room 470
 
 **Homework Submissions**: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJ_hzjToD08UX5Py2QP4t8VhiKaIAHZNn6dQVUQbSerfHgrA/viewform)  
 
+**Twitch Streams/Recordings**: [Link](https://www.twitch.tv/hellagrapes)
+
 ## Course Description
 
 Web Production II builds upon the tools employed in Web Production I to begin developing dynamic websites and other net.art works. Advanced coding methods will be introduced in HTML5, JavaScript, JQuery, AJAX, node.js, MongoDB, and JSON. Students will develop multiple interactive web projects using a range of methods and tools.
@@ -20,6 +22,7 @@ Sections of these are assigned readings, but the full texts may be useful to rev
 - [W3 Schools jQuery Tutorial](https://www.w3schools.com/jquery/jquery_get_started.asp)
 - [jQuery Fundamentals](http://jqfundamentals.com/)
 - [Web Development With Node & Express](https://drive.google.com/file/d/1ip-1kA9k3VzpIOL0gczB09umHAgw_r5a/view?usp=sharing)
+- [Learn Server-Side Programming - Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
 
 
@@ -82,21 +85,27 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - **Midterm Due**
 - Celebrate! And if you missed last week, make sure to get set up with Node and Heroku before next week - [instructions are here](week8/).
 
-### Class 10: Node and Templating - 11/4
+### [Class 10: Routing & Templating With Node](week10/) - 11/4
+- [Recording](https://www.twitch.tv/videos/1195748079)
+- [Reading & Assignment](week10/assignment.md) due **Tuesday** 11/16 at 8pm
 
-### Class 11: Get/Post, Talking to The Frontend - 11/11
+### Class 11: CANCELLED : ( - 11/11
 
-### Class 12: Databases! Intro to MongoDB - 11/17
-- **Final introduced**
+### [Class 12: Get/Post, Internal & External APIs](week12/) - 11/18
+- [**Final introduced**](week12/final.md)
+- [Reading, assignment, and final proposal](week12/assignment.md) - due Wednesday, 12/1 at 8pm
 
 ## NO CLASS 11/24 - Thanksgiving
 
-### Class 13: Putting It All Together - 12/2
+### Class 13: Intro to MongoDB - 12/2
 
 ### Class 14: Intro to React/Work Session - 12/9
 
 ### Class 15: Final presentations! - 12/16
 - **Final due**
+
+
+## Final day to submit any missing work: 12/20 (No late work will be accepted after this date)
 
 
 ## Learning Objectives
@@ -124,7 +133,7 @@ There is no required text for this course. Weekly readings will be posted on thi
 
 ## Evaluation
 
-Grades and feedback will be posted in BlackBoard. Work submitted after the beginning of class will be docked a letter grade.
+Grades and feedback will be posted in BlackBoard. Work submitted after the beginning of class will be docked a letter grade. Any missing assignments must be submitted by Dec. 20 for credit.
 
 1) Class and lecture participation (20% of grade). By enrolling in this course and entering the classroom, each student
 makes the tacit commitment to participate in the class. Active class participation involves more

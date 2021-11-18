@@ -23,8 +23,8 @@
 
 ### Option 2: Roll Your Own Final
 - The only hard and fast requirement here is that your project run on a node.js server.
-- Want to make a bot,  or a game, or some other personal project you’ve been wanting to work on? Feel free. 
-- Just make sure it’s relatively creative and complex: as in the midterm, making a Twitter bot that just posts from the Kanye API doesn’t show much creativity or complexity. Making a discord bot for a community you’re on that does useful things, or making a Twitter bot that interacts with your own custom code or an external API to do something creative, show more of that.
+- Want to make a bot, or a game, or some other personal project you’ve been wanting to work on? Feel free. 
+- Just make sure it’s relatively creative and complex: as in the midterm, making a Twitter bot that just posts from the Kanye Quotes API doesn’t show much creativity or complexity. Making a discord bot for a community you’re on that does useful things, or a Twitter bot that interacts with your own custom code, or a game/single page app does.
 
 #### Grading Rubric:
 

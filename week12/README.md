@@ -1,6 +1,6 @@
 ## Setup
 
-Download the [starter code](https://drive.google.com/file/d/1lsyAjtnosx8J2gVZOQaB1aT-faFKRChj/view?usp=sharing), open it in Atom, and `cd` into it in the terminal (`cd Downloads/starter-code-w11/starter-code`).
+Download the [starter code](https://drive.google.com/file/d/1lsyAjtnosx8J2gVZOQaB1aT-faFKRChj/view?usp=sharing), open it in Atom, and `cd` into it in the terminal (`cd Downloads/starter-code`).
 
 
 - [Example Twitter Bot](https://twitter.com/HunterWebProd)

@@ -1,5 +1,7 @@
 ## Likes & Comments Exercise
 
+Let one person write the code while the others give input. You can swap out after 5 minutes or so.
+
 To get started, in the starter code, `cd` into `exercise_1/` (to get to the top level of this folder, if you were in `form-starter-code`, you can just enter `cd ..`)
 
 - Start by trying to add and display “likes” to each message.
