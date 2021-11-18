@@ -6,16 +6,16 @@ Download the [starter code](https://drive.google.com/file/d/1lsyAjtnosx8J2gVZOQa
 - [Example Twitter Bot](https://twitter.com/HunterWebProd)
 - [Message Board Example](https://murmuring-refuge-85491.herokuapp.com/messages)
 
-### Get/Post, Talking To The Frontend
+### Get/Post, Talking To The Frontend - [Complete Tutorial Code](https://drive.google.com/file/d/1Xwc1jQC5tAWR7wZc-Z-OTTyv3l-icaLC/view?usp=sharing)
 
 
-1. Tutorial
 
+1. Tutorial - 
 To follow along, `cd` into `form-starter-code` in the starter code and run `npm install` and `node app.js`
 
 2. [Exercise](exercise_1.md)
 
-### Working With External APIs
+### Working With External APIs - [Complete Tutorial Code](https://drive.google.com/file/d/1EGK0O1W1J9gZ7gyG5bZOsfckBBhILzXs/view?usp=sharing)
 
 1. Tutorial - adding an external API to your frontend
 
