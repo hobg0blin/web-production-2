@@ -13,6 +13,7 @@
 ### Option 1 - Interactive Website
 **Create an interactive website that uses Node.js on the server-side and allows the user to interact with it on the front-end. You’ll make a 5-10 minute presentation of your project to the class on December 16. This will be 25% of your grade for the semester!**
 - The website should have at least 4 routes delivered by a Node.js server - these can just be `get` routes that deliver different pages, or can be post/put routes for a CRUD app, or can get JSON data from an external API.
+- The website should use Handlebars (or another templating language, if you have one you prefer) to render some JavaScript data (an object, array, info from an external API, or your own database) from the server.
 - The website should use front-end JavaScript to make it interactive.
 - The website should be hosted online - you can use Heroku, turbo360 which we’ll cover next class, or the host of your choice.
 - Other than that, it’s up to you! Feel free to build off a previous assignment or your midterm, or code from class tutorials, or build something new entirely!
