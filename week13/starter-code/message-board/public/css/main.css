@@ -1,0 +1,48 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.messages {
+  display: flex;
+  flex-wrap: wrap
+  justify-content: center;
+}
+.message-container {
+  display: flex;
+  width: 30%;
+  margin: 2.5%;
+}
+
+
+
+.form-group.button-group {
+  margin: 0 auto 0 50px;
+}
+
+.comments {
+  margin-top: 5px;
+  width: 100%;
+}
+.comment {
+  border: 1px solid black;
+  width: 100%;
+  background-color: #ddd5cc;
+  padding: 2.5%;
+  font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

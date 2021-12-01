@@ -1,0 +1,63 @@
+<div id="messages" class="container messages">
+</div>
+
+<script id="messageTemplate" type="text/x-handlebars-template">
+\{{#each this.messages}}
+<div class="panel panel-default message-container">
+<div class="panel-body message-content">
+<div>\{{message.text}} - \{{message.name}}.</div> <div><strong>Sentiment:</strong> \{{message.emoji}}</div>
+<div class="comments">
+<strong>Comments:</strong>
+\{{#each comments}}
+<div class="comment"> \{{ this.text }} </div>
+\{{/each}}
+</div>
+<div class="formContainer">
+<form class="commentContainer" action="/comment" role="form">
+    <input type="hidden" id="messageId" name="postId" value="\{{ message.postId }}" />
+    <div class="form-group">
+        <div class="col-sm-12">
+            <input type="text" class="form-control" required 
+                id="fieldMessage" name="text" placeholder="Your comment here">
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-4">
+            <button type="submit" class="btn btn-default">Comment</button>
+        </div>
+    </div>
+</form>
+</div>
+</div>
+</div>
+\{{/each}}
+</script>
+
+
+<div class="formContainer">
+    <form autocomplete="off" class="form-horizontal messageContainer" role="form" 
+            action="/message" method="POST">
+        <div class="form-group">
+            <label for="fieldName" class="col-sm-2 control-label">Name</label>
+            <div class="col-sm-4">
+                <input type="text" class="form-control" required
+                id="fieldName" name="name">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="fieldMessage" class="col-sm-2 control-label">Message</label>
+            <div class="col-sm-4">
+                <input type="text" class="form-control" required 
+                    id="fieldMessage" name="text">
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-4">
+                <button type="submit" class="btn btn-default">Leave Your Message</button>
+            </div>
+        </div>
+    </form>
+</div>
+<script src="/js/ajax-submit.js">
+</script>
+

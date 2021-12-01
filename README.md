@@ -97,7 +97,9 @@ This schedule is subject to change. Please check your e-mail and this course pag
 
 ## NO CLASS 11/24 - Thanksgiving
 
-### Class 13: Intro to MongoDB - 12/2
+### [Class 13: Intro to MongoDB, Final Wireframing](week13/) - 12/2
+- [Reading](week13/assignment.md)
+- No homework this week- work on your [final](week12/final.md), and come prepared to discuss with me one-on-one next week.
 
 ### Class 14: Intro to React/Work Session - 12/9
 
