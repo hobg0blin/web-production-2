@@ -24,13 +24,18 @@ Navigate back to the MongoDB project dashboard (go to “Databases”) and hit �
 <img width="800px" src="img/dashboard.png" />
 
 In “choose a connection method”, hit “connect your application”. 
+
+
+
 <img width="800px" src="img/choose_connection.png" />
 
-Hit “Next” and copy this connection string and paste it into a text editor:  replace the `<password` with the database user you created earlier. You can also change `myFirstDatabase` to whatever you want to call your database - every time you change this string and run your app, you can create a new database, which can be useful for debugging.
+Hit “Next” and copy this connection string and paste it into a text editor:  replace the `<password>` with the password you created earlier. You can also change `myFirstDatabase` to whatever you want to call your database - every time you change this string and run your app, you can create a new database, which can be useful for debugging, or if you want to start a new project.
+
 
 <img width="800px" src="img/connection_string.png" />
 
-Download the [starter code](https://drive.google.com/file/d/1wNhrYFywMnCWRBrf2x2MZ3iH3s_-hcu2/view?usp=sharing) and `cd` into the `message-board` folder inside it. Copy the connection string and add your password that you created for your database user, and put them in the `.env` file in the starter code.
+
+Download the [starter code](https://drive.google.com/file/d/1xywAJ6qiWRfyPvcXC_HlGeQtahLpSOIZ/view?usp=sharing) and `cd` into the `message-board` folder inside it (on a Mac, this should be `cd ~/Downloads/starter-code-w13/message-board`). Copy the connection string and add your password that you created for your database user, and put them in the `.env` file in the starter code.
 
 
 <img width="800px" src="img/env.png" />

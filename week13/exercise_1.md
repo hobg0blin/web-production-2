@@ -3,9 +3,9 @@
 
 In the starter code, `cd` into `todo-app` and run `npm install`.
 
-Copy your database URI from the `.env` file in `message-board` into the `.env` file in `todo-app`.
+Copy your database URI from the `.env` file in `message-board` into the `.env` file in `todo-app`. Change `myFirstDatabase` in this string to `todoDB` (or whatever you want to call it) - this will create a new database.
 
-Check out the `Todo.js` file in the `models/` folder to see the model for a todo item.
+Check out the `Todo.js` file in the `models/` folder to see the database model for a todo item as it stands.
 
 This to-do app is already set up to store whether or not it’s done: if you look in `public/js/ajax-submit.js`, every time you hit a checkbox, it makes a `put` request to our server, which updates the to-do item’s “isDone” attribute to be true.
 

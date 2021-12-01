@@ -2,7 +2,7 @@
 
 ### Setup
 
-Follow the [setup instructions](setup.md) to create a MongoDB Atlas account and connect the [starter code](https://drive.google.com/file/d/1wNhrYFywMnCWRBrf2x2MZ3iH3s_-hcu2/view?usp=sharing) to a database.
+Follow the [setup instructions](setup.md) to create a MongoDB Atlas account and connect the [starter code](https://drive.google.com/file/d/1xywAJ6qiWRfyPvcXC_HlGeQtahLpSOIZ/view?usp=sharing) to a database.
 
 ### MongoDB Basics
 
