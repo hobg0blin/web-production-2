@@ -19,12 +19,12 @@ Go to the “Network Access” tab in the sidebar, hit “Add IP Address”, and
 
 <img width="800px" src="img/allow-access-anywhere.gif" />
 
-Navigate back to the MongoDB project dashboard, hit “Connect”, and add “allow access from anywhere”.
+Navigate back to the MongoDB project dashboard (go to “Databases”) and hit “Connect”, and add “allow access from anywhere”.
 
 <img width="800px" src="img/dashboard.png" />
 
 In “choose a connection method”, hit “connect your application”. 
-<img width="800px" src="img/choose-connection.png" />
+<img width="800px" src="img/choose_connection.png" />
 
 Hit “Next” and copy this connection string and paste it into a text editor:  replace the `<password` with the database user you created earlier. You can also change `myFirstDatabase` to whatever you want to call your database - every time you change this string and run your app, you can create a new database, which can be useful for debugging.
 
