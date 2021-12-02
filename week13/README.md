@@ -9,7 +9,7 @@ Follow the [setup instructions](setup.md) to create a MongoDB Atlas account and 
 1. In the terminal, `cd` into `message-board` in the starter code, run `npm install`, and follow along.
 2. [Exercise](exercise_1.md)
 
-### Midterm Wireframing & Discussion
+### Final Wireframing & Discussion
 
 1. In your app of choice (Notes, Google Drive, pen and paper), take some time to work through this [wireframing exercise](exercise_2.md)
 2. Discussion
