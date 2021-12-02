@@ -4,7 +4,7 @@
 
 Follow the [setup instructions](setup.md) to create a MongoDB Atlas account and connect the [starter code](https://drive.google.com/file/d/1xywAJ6qiWRfyPvcXC_HlGeQtahLpSOIZ/view?usp=sharing) to a database.
 
-### MongoDB Basics
+### MongoDB Basics - [Tutorial Code](https://drive.google.com/file/d/13zSvT9VDkpj-GOptiTrH0QMype2TRkOJ/view?usp=sharing)
 
 1. In the terminal, `cd` into `message-board` in the starter code, run `npm install`, and follow along.
 2. [Exercise](exercise_1.md)
