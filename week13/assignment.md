@@ -11,3 +11,8 @@
 - [Mongoose query functions](https://www.geeksforgeeks.org/mongoose-updatemany-function/?ref=lbp)
 - [Building a Simple CRUD App with Node, Express, and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
 - If you’re interested in user accounts: [Authentication in NodeJS With Express and Mongo](https://dev.to/dipakkr/implementing-authentication-in-nodejs-with-express-and-jwt-codelab-1-j5i#8-user-login), video (requires an account but offers a free trial): [User Authentication With Express and MongoDB](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
+
+
+### Assignment
+
+Start work on your final, if you haven’t already, or if you have, continue building on top of it. You don’t need to have a complete project, or even a working one for next week - just try to build out the basic functionalities you’ll need for your project. If you’re running into trouble, make a note of it or add comments, and we’ll talk about it one-on-one in the next class. Submit your work in progress to the [Homework Form](https://forms.gle/DMcG64NvRdbSjsq57).
