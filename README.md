@@ -101,7 +101,9 @@ This schedule is subject to change. Please check your e-mail and this course pag
 - [Twitch Recording](https://www.twitch.tv/videos/1221905189)
 - [Reading & Assignment (Final Prototype)](week13/assignment.md) - due Wednesday, 12/8 at 8pm
 
-### Class 14: Intro to React/Work Session - 12/9
+### Class 14: [Where To Go From Here, Intro to React//Work Session & One-on-Ones](week14/) - 12/9
+- Keep working on your final, and be ready to present and celebrate next week!
+- Remember that the final day to submit any late or missing work is 12/20.
 
 ### Class 15: Final presentations! - 12/16
 - **Final due**
