@@ -1,7 +1,8 @@
 ## Week 14
 
 ### A Quick Intro To React
-- Download the [starter code](https://drive.google.com/file/d/1FpnT8aHUuGm7YU9sfjp2HAFVH5LFVADH/view?usp=sharing), cd into it (`cd Downloads/tic-tac-toe-starter`), and run `npm install`
+- Download the [starter code](https://drive.google.com/file/d/1FpnT8aHUuGm7YU9sfjp2HAFVH5LFVADH/view?usp=sharing), cd into it (`cd Downloads/tic-tac-toe-starter`), and run `npm install`.
+- To start the server, run `npm start` - React comes with its own server that actually live reloads the page when you make changes to the code.
 
 
 ### Teacher Evaluation
