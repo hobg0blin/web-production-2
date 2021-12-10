@@ -45,7 +45,7 @@ To follow along, `cd` into `twitter-bot-frontend` in the starter code and run `n
 - [Video: how to create a TODO app with Node.js and Express.js](https://www.youtube.com/watch?v=meJf53tvsWw)
 
 ### If you want to get ahead on databases/making a CRUD app:
-- We’ll be working with [turbo360](https://www.turbo360.co/) when we get back since it’s an easy way to get your database hosted online. Create an account with them and check out their [docs](https://docs.turbo360.co/) and [tutorials](https://www.turbo360.co/tutorials) - part 6 of this [Udemy course](https://www.udemy.com/course/portfolio-website-with-node-js-express/learn/lecture/16276404#overview) is helpful for setting up a database, although we won’t be using their routing setup in class.
+- ~~ We’ll be working with [turbo360](https://www.turbo360.co/) when we get back since it’s an easy way to get your database hosted online. Create an account with them and check out their [docs](https://docs.turbo360.co/) and [tutorials](https://www.turbo360.co/tutorials) - part 6 of this [Udemy course](https://www.udemy.com/course/portfolio-website-with-node-js-express/learn/lecture/16276404#overview) is helpful for setting up a database, although we won’t be using their routing setup in class.~~ - they went out of business :(
 - [Make a Simple CRUD App with Node & MongoDB - Star Wars Quotes App](https://zellwk.com/blog/crud-express-mongodb/) - This is another way to get set up with MongoDB if you’d like to host on Heroku or are having trouble following the Turbo360 stuff
 
 ### Inspiration
